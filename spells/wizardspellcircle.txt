@@ -1,0 +1,503 @@
+                           Wizard Spell Circle
+                           -------------------
+
+Important Policy Note
+
+
+Implementation
+
+This spell circle is implemented to level 25 as of 12/18/1992. 
+
+-----------------------------------------------------------------------------
+ 1 Minor Shock   (901)                                                MNSHOCK
+
+   A bolt of intense, charged light is shot from the palm of the caster.
+   This is an elemental attack spell and uses the Spell Aiming skill.
+
+   Notes:
+
+   Shocks inversely affected by armor, which means that wearing plate armor
+   would leave you entirely defenseless if struck by this spell.
+
+ ----------------------------------------------------------------------------
+
+ 2 Minor Elemental Edging  (902)    Duration:  1 attack/lvl            MNEDGE
+
+
+   This spell magically enchants a weapon, giving it a +15 bonus for the
+   number of attacks equal to the level of the caster.  The spell is cast
+   on the weapon.  The effects are not cumulative and this spell will not
+   work on magic, cursed, holy, slaying or mithril weapons.
+
+   Notes:
+
+   Anyone may use the weapon so enchanted.  The spell only dispels when the
+   number of attacks is exceeded.  (Remember, even misses count as attacks!)
+
+-----------------------------------------------------------------------------
+
+ 3 Minor Water  (903)                                                 MNWATER
+
+   A bolt of highly compressed water is shot from the palm of the caster.
+   This is an elemental attack spell and uses the Spell Aiming skill.
+
+   Notes:
+
+   It is not as easy to hit a target with this spell as with Minor Shock;
+   however it does more damage when it does hit.  This spell is not inversely
+   affected by armor so it can be much more effective against lightly armored
+   opponents.
+
+-----------------------------------------------------------------------------
+
+ 4 Stun Cloud   (904)               Duration: 6 rounds              STUNCLOUD
+
+    Creates a small cloud of charged gas particles: delivers a Rank 5
+    Electricity injury on 1st and 2nd rounds, a Rank 3 on rounds 3 and 4, and
+    a Rank 1 on rounds 5 and 6.  It drifts in the wind and affects all in the
+    area on a random basis.  The cloud takes one round to form.
+
+    Notes:
+
+    A caster is wise to leave the area after casting this spell.  It is
+    especially useful when a given enemy is immobilized.  Note that although
+    it is rare, a stun cloud can sometimes drift out of a room, so keep an
+    eye out for it following you.  When the cloud nears a combatant, an
+    automatic roll is made to determine if he/she/it avoids the cloud.
+
+-----------------------------------------------------------------------------
+
+ 5 Elemental Refraction  (905)      Duration: 10 sec/lvl             EREFRACT
+
+   Causes the caster to appear to be offset slightly from where he/she/it
+   actually is.  The illusion is imperfect, but it does provide enough
+   confusion to be worth a +20 DS.
+
+   Notes:
+
+   When the combat system is implemented, a combatant who is under the effect
+   of displacement will have a significant advantage in engagement and
+   disengagement rolls as well as the DS bonus.
+
+-----------------------------------------------------------------------------
+
+ 6 Minor Fire     (906)                                                MNFIRE
+
+   A bolt of fire is shot from the palm of the caster.  This is an elemental
+   attack spell and uses the Spell Aiming skill.
+
+   Notes:
+
+   This is a very powerful elemental attack spell, but is not inversely
+   affected by armor.
+
+-----------------------------------------------------------------------------
+
+ 7 Major Cold    (907)                                                 MJCOLD
+
+   A 1' ball of cold is shot from the palm of the caster, exploding on
+   impact.  This is an elemental attack spell and uses the Spell Aiming
+   skill.
+
+
+   Notes:
+
+   Ball attacks are much easier to hit with than bolt attacks due to the
+   added explosion at the end.  However they tend to deliver less damage
+   as the trade-off.
+
+-----------------------------------------------------------------------------
+
+ 8 Major Fire    (908)                                                 MJFIRE
+
+   A 1' ball of fire is shot from the palm of the caster, exploding on
+   impact.  This is an elemental attack spell and uses the Spell Aiming
+   skill.
+
+   Notes:
+
+   Ball attacks are much easier to hit with than bolt attacks due to the
+   added explosion at the end.  However they tend to deliver less damage
+   as the trade-off.  This spell is a bit easier to aim and does more
+   damage than the cold version, but some creatures are elementally more
+   resistant to one form of attack than another.
+
+-----------------------------------------------------------------------------
+
+ 9 Tremors       (909)                                                TREMORS
+
+   Causes the earth in the area to begin shaking in a very minor earthquake.
+   Everyone in the area must make a roll to remain standing.  Note that the
+   effect is actually an illusion, the disruption is not in the earth but in
+   the magical aura.  As such no structural damage will result and the caster
+   is completely immune to the effect.
+
+    Notes:
+
+   Attacking a fallen opponent lowers their AS and DS by 50.  This is an easy
+   way to get a big advantage over an opponent.
+
+-----------------------------------------------------------------------------
+
+ 10 Major Shock  (910)                                                MJSHOCK
+
+   A bolt of lightning is shot from the palm of the caster.  This is an
+   elemental attack spell and uses the Spell Aiming skill.
+
+   Notes:
+
+   These are much easier to aim than minor shocks since they have a tendency
+   to arc to their target even if the aim is off.  They also do about twice
+   as much damage.  Like minor shocks, major shocks are inversely affected by
+   armor.
+
+-----------------------------------------------------------------------------
+
+ 11 Mass Blur   (911)          Duration: 30 sec/lvl                  MASSBLUR
+
+   Causes all characters in the caster's group to appear blurred to
+   attackers, thus giving a +10 to DS.  This is cumulative with other
+   defensive effects.
+
+   Notes:
+
+   The caster must be the leader of the group, thus all who have JOINed the
+   caster (or the caster did HOLD HANDS with) will benefit from this spell.
+   Note that the effect remains on everyone even if the group breaks up,
+   until the duration is reached.  The spell does not affect dead individuals
+   in the group.
+
+-----------------------------------------------------------------------------
+
+ 12 Call Wind      (912)                                             CALLWIND
+
+   Causes a vicious wind to erupt in the area.  All in the area must make
+   a roll to remain standing.  Items on the ground may be swept away by the
+   wind.  The violent, swirling wind will also cause all combatants to lose
+   their positioning, which causes their stance to become less defensive.
+   The caster is unaffected.
+
+   Notes:
+
+   Very effective at rendering a foe vulnerable to attack.
+
+-----------------------------------------------------------------------------
+
+ 13 Death Cloud    (913)            Duration 10 rounds               DEATHCLD
+
+   This spell produces a much more potent version of the Stun Cloud (904)
+   which delivers a Rank 9 injury on rounds 1 and 2, a Rank 7 on rounds
+   3 and 4, a Rank 5 on rounds 5 and 6, a Rank 3 on rounds 7 and 8 and an
+   Rank 1 on rounds 9 and 10.
+
+   Notes:
+
+   The rules for the stun cloud apply for the death cloud as well.  The death
+   cloud, however, is more unpredictable than the stun cloud and is more
+   likely to move into an adjacent area.  The cloud is also borderline
+   unstable and many times will disperse prematurely in a dazzling, but
+   harmless, light show.  However, the death cloud delivers the most severe
+   of injuries in its early stages that can kill most anything outright if it
+   connects; use with extreme caution!
+
+
+-----------------------------------------------------------------------------
+
+ 14 Fire Storm     (914)            Duration: 10 sec/lvl            FIRESTORM
+
+   Causes a rain of fire to fall in the area for the duration of the
+   spell.  Each combatant in the room must make a roll to avoid being struck
+   by one of the fire balls.  If hit, a Rank 3 heat injury results.  The
+   firestorm requires 1 round to form.
+
+   Notes:
+
+   Unlike stun/death cloud, this effect is much more predictable.  Anyone
+   caught in the area is likely to be affected (unlike the clouds which
+   drift so much they sometimes affect no one).  A caster is wise to
+   leave the area immediately after casting this spell.
+
+-----------------------------------------------------------------------------
+
+ 15 Weapon Fire    (915)                                           WEAPONFIRE
+
+    Causes the target's weapon-in-hand to burst into flame and be destroyed.
+    This causes a Rank 1 heat injury on the target.
+
+    Notes:
+
+    This spell does not always work on magic, mithril, holy or cursed
+    weapons.
+
+-----------------------------------------------------------------------------
+
+ 16 Invisibility    (916)           Duration: 30 sec/lvl            INVISIBLE
+
+   The caster becomes nearly invisible.  So long as no sudden move is made,
+   such as an attack, the caster is immune from detection except by magical
+   means.  This spell does not cloak smells or sounds, so some creatures will
+   have no difficulty finding an invisible combatant, but will be confused
+   by the conflict of senses.
+
+   Notes:
+
+   Invisibility allows easy, undetected movement and positioning.  When
+   the combat rules are in effect, being invisible can give you a decided
+   advantage in picking your fights.
+
+-----------------------------------------------------------------------------
+
+ 17 Boil Earth      (917)                                           BOILEARTH
+
+   The ground beneath the target suddenly becomes molten.  The target will
+   immediately fall if standing and then receive a Rank 3 heat injury.  There
+   is a 10% chance of doing immediate damage to the leg area in addition to
+   the injury result.
+
+   Notes:
+
+   Although other spells can achieve similar ends, Boil Earth is more
+   difficult to cast because it requires precise control to affect a single
+   selected target instead of the more diffuse targets of area spells which
+   affect friend and foe alike.
+
+
+-----------------------------------------------------------------------------
+
+ 18 Duplicate      (918)                                            DUPLICATE
+
+   This spell calls upon the elemental forces to replicate an inanimate
+   object.  This is a very tricky proposition and as such the spell has
+   some limitations.  Objects that are made from rare-earth elements (such
+   as gems, silver, or gold) usually do not duplicate.  Magical items,
+   mithril, holy and cursed items are also resistant to this spell.  On some
+   occasions, when the Forces are especially powerful, such a duplication
+   will succeed.  When this spell fails, there is usually nothing to show for
+   the effort -- sometimes a useless hunk of material will result and
+   sometimes a very unstable version of the object will be created.  However
+   when it succeeds (as it usually does on simple objects), you will have an
+   exact duplicate of the item.
+
+   Once an item is duplicated, the mass of the two objects is divided
+   leaving both incapable of being reduplicated.  Attempts to do so will
+   result in a pyrotechnic failure.
+
+   Notes:
+
+   To find out what will duplicate and what won't requires trial and
+   error; research on this is unreliable since it seems some wizards are
+   better at duplication of certain items than others.
+
+-----------------------------------------------------------------------------
+
+ 19 Wizard Shield   (919)            Duration: 30 sec/lvl           WIZSHIELD
+
+   The most powerful of defensive spells in the Wizard Circle.  The Wizard's
+   Shield will grant a +50 bonus to the target's DS.
+
+   Notes:
+
+   Duration is cumulative.
+
+-----------------------------------------------------------------------------
+
+ 20 Call Familiar   (920)            Duration: 1 min/lvl             FAMILIAR
+
+   Once a wizard has obtained 20th level, he/she is usually expected to be
+   seen with a familiar, though this often takes longer since learning this
+   spell requires quite an investment in research.  The Call Familiar spell
+   will summon forth a small animal (such as a falcon, wolf, etc.) at random
+   to be the familiar of the caster for the duration of the spell.  The type
+   of creature which appears is dependent on the local inhabitants of the
+   area the caster is in.
+
+   A familiar can be commanded to perform a few simple tasks, and the wizard
+   can see through the eyes of the familiar at any time.  Although a
+   familiar is not useful as a weapon, it can be used for information
+   gathering and as a messenger.  Different types of familiars have
+   different types of abilities, strengths and weaknesses.
+
+   The premature death of a familiar can stun a wizard.  However if the
+   wizard should die, a familiar will attempt to seek help on its own, though
+   this is not always effective.  Sometimes a familiar will find a character
+   and try to get him/her to come to your aid, sometimes the familiar will
+   even find other folk who can help.
+
+   Notes:
+
+   For details on how to command a familiar, see the information at the end
+   of this article.  Note that if you log off GemStone, either by QUIT or
+   by disconnection, the familiar will still stay in the world and wait
+   for a short time.  Sometimes the hold on a familiar will be broken for
+   some unfathomable reason.  This type of break will not stun your
+   character, however you will have to call a new familiar.  This usually
+   happens when random elemental forces interfere with the relationship.
+
+-----------------------------------------------------------------------------
+
+ 25 Enchant Item (925)                                                ENCHANT
+
+   This spell, when cast upon a properly tempered weapon, armor, or
+   shield, will enchant the item to +5 of its former bonus.  The tempering
+   process is one requiring great skill on the part of the wizard, and will
+   require a special potion.  Many different potions are available, of
+   varying qualities, so the wizard must choose the type of potion with
+   care in order to ensure a successful enchantment.
+
+   To temper an item, the wizard should POUR POTION ON <item>.  Tempering
+   can take time, and different potions will cure at different rates.  The
+   time required for the tempering process to complete, will become clear
+   at the time that the potion is applied.  Once tempered, an Enchant Item
+   spell should be cast directly at the item to be enchanted.  Casting
+   of the spell should not be delayed too long after the tempering has
+   cured, otherwise there may be unexpected results.
+
+   Tempered items undergo extreme changes to their structure, and cannot
+   be used in combat while they are in this state, lest they shatter.
+   Armor too will become very stiff and brittle while tempered, and
+   will not be wearable.
+
+   Enchanting is an intricate process requiring great involvement on the
+   part of the wizard.  A wizard must always do the tempering for him or
+   herself.  One wizard cannot enchant an item which has been tempered by
+   another wizard, without re-tempering it first.
+
+   Most armor and weapons can be enchanted, even if they already have
+   some magical ability from another source.  Such previous magical
+   items, however, will prove to be more difficult to temper, and some
+   items will not be enchantable.  Similarly, it will be somewhat
+   more difficult for one wizard to temper an item which has been worked
+   on by another wizard.  For best results, an item should be enchanted
+   by one wizard only.
+
+   The chances of enchantment are directly related to the wizard's own
+   level, along with the current bonus of the item being enchanted, and
+   the quality of its tempering.  A failure of this spell can result
+   in the destruction of the item, so it should not be attempted in
+   crowded areas, lest injuries to local bystanders be a result.
+
+   The wizard must decide how far they are willing to push their luck
+   when trying to get an item to a very high bonus.  Each tempering
+   and enchantment cycle incurs time, expense and a certain amount
+   of risk.  As a wizard grows in level, his or her ability to enchant
+   to higher levels "safely" will also increase.  A wizard can make
+   certain trade-offs on tempering time (which can vary from pretty
+   short to REALLY long) and risks, by choosing a potion that best fits
+   his or her requirements.  Learning how potions affect the enchantment
+   process will make a big difference in the wizard's ultimate success.
+
+   The maximum bonus attainable by this spell is +50.
+
+-----------------------------------------------------------------------------
+
+ 30 Unknown    (930)
+
+           (This spell must be discovered by the advanced Wizard.)
+
+-----------------------------------------------------------------------------
+
+ 50 Unknown    (950)
+
+           (This spell must be discovered by the advanced Wizard.)
+
+
+-----------------------------------------------------------------------------
+
+Commanding a Familiar
+
+A familiar can be controlled with some simple commands.  Because the creature
+is not intelligent, it can only perform a limited number of actions.  The
+communication path is mental, so contact is maintained even if your familiar
+is in another area.  A familiar can speak with your voice (albeit poorly).
+
+General format:
+
+TELL FAMILIAR TO {command sequence}
+
+
+TELL FAMILIAR TO LOOK
+
+ You will see what the familiar sees regardless of where it is.
+
+
+TELL FAMILIAR TO GO NORTH
+
+ The familiar will travel in a given direction if possible.
+
+
+TELL FAMILIAR TO GO THROUGH DOOR
+
+ The familiar will travel through the door if possible.
+
+
+TELL FAMILIAR TO FIND Reline
+
+ The familiar will attempt to find a given character.  This can take some
+ time, and some creatures are suited to outdoor searches (like hawks).  If
+ they find the character, they will follow him/her and you will be notified.
+ Otherwise they will continue to search forever until you either give
+ them another command, tell them to return, or the spell wears off.
+ Note that certain areas are inaccessible to some (or all) familiars.
+
+
+TELL FAMILIAR TO RETURN
+
+ Causes the familiar to try and return to your location.  Because of the
+ mental bond, this is usually easier for the familiar to do than to seek
+ another character.  The familiar will follow you until instructed otherwise.
+
+
+TELL FAMILIAR TO SAY Bardon, come to the gates!
+
+ You channel your voice through the familiar.  This is a difficult thing to
+ accomplish and may incur a roundtime.
+
+
+TELL FAMILIAR TO WATCH
+
+With this command your mind will be linked with that of your familiar,
+allowing you to see what the creature sees.  If the familiar is in a
+different room/area than you are, anything that happens will appear on your
+screen as well.  To help differentiate the messages, those events which are
+being seen by the familiar will be in ANSI underline mode IF you have the
+MonsterBold flag set and have a terminal program which can display ANSI (AOL
+MEMBERS DO NOT AT THIS TIME).  Note that some terminal programs use bold for
+underline.
+
+To break this link, simply tell the familiar to STOP WATCHING.  Keep in mind
+that if the familiar is in the same room/area with you, then you will not
+receive both points of view (because they would be identical).
+
+Note: For GEnie members additional support for the Familiar view is supported
+by Simutronics Graphics Front End software for GemStone III, via the
+alternate Familiar Window.  This puts messages from your familiar in one
+window, while messages in your room or area are in another window.
+
+
+TELL FAMILIAR TO GET THE WAND
+
+Some creatures are capable of picking up an item (usually in their mouth)
+and carrying it for you.  Most will avoid sharp objects that might hurt
+them if they tried to pick it up with their mouth, and telling an animal
+to pick up food usually doesn't last long.  Simply tell the familiar to
+DROP the item when you want it back.  You can use some familiars to
+courier objects to other players in this way.
+
+
+TELL FAMILIAR TO SLEEP
+
+If a familiar is getting on your nerves, tell it to sleep and it will
+hush up and snooze a bit.  Telling it to do anything else will wake
+the familiar back up.
+
+
+TELL FAMILIAR TO LEAVE
+
+If you tell your familiar to leave, the spell will be broken.
+
+
+Other commands, such as SIT, STAND, FLY, LAND, etc. are also possible.
+
+
+
+

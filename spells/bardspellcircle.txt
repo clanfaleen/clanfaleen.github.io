@@ -1,0 +1,314 @@
+                            Bard Spell Circle
+                            -----------------
+
+Important Policy Note
+
+
+
+Implementation
+
+As of September 11, 1995, this spell circle is under design implementation,
+and is not implemented.
+
+
+
+Note: Mana Point (MP) cost is initial to start the song, +X number of mana
+points per interval where the interval is 120 + 5 times the singer's level
+in seconds with a max of 360 seconds for the interval.
+
+----------------------------------------------------------------------------
+1001 Holding Song
+
+      Using the forces of air and vibration, this song will lower a single
+      foe's ability to defend by 10 percent.
+
+      1MP 1MP/(120+5*plevel|360)s  reduces target's DS by 10%.
+
+ ----------------------------------------------------------------------------
+
+1002 Vibration Chant
+
+      With this chant, a bard can find the exact pitch needed to make an
+      object unstable, and then focus the sound energy upon a target. This
+      will cause an object held by the target to vibrate free from the
+      holder's grasp.  Occasionally, the bard will achieve perfect resonance,
+      causing the object to explode.
+
+      2MP/(Target|attempt)  Song spirit warding to item in target's hands
+      will drop to the ground.  Player's level% chance of breakage, modified
+      by item's characteristics.
+
+DATELINE:  FEBRUARY 15th 1998
+
+Vibration Chant Changes!  The threshold necessary for causing the creature's 
+non-magical weapon to explode has been lowered from +175 to +150.  The damage 
+factor also has been increased slightly.  And finally, creatures now drop 
+magical weapons!  Creatures will drop magical weapons at a failure of +150, 
+and magical weapons will not explode.
+
+----------------------------------------------------------------------------
+
+1003 Fortitude Song
+
+      Through the aid of music and magic, a bard singing this song bolsters
+      his defensive ability by 10.
+
+      3MP 1MP/(120+5*plevel|360)s +10 DS
+
+----------------------------------------------------------------------------
+
+1004 Purification Song
+
+      While singing this song, the bard can direct the resulting sonic
+      vibrations across the surface of a gem, removing blemishes and
+      impurities in the process.
+
+      4MP/rd maintained effect, every successful round increases the value
+      of a gem by 2 percent.  Spell stops when caster runs out of MP's,
+      stops the song or the song fails to improve the gem on a round.  Small
+      chance of a failure ending in damage or destruction of the gem.  May
+      create an imbeddable gem or a gem usable in the recharging process.
+
+----------------------------------------------------------------------------
+
+1005 Illusionary Item
+
+      Using subtle variations of intonation and magic, a bard may gather
+      elemental forces into a shapeless mist which can then be formed to
+      appear as a manipulatable item. The item remains in existence as long
+      as the bard maintains the song.
+
+       5MP 1MP/(5+plevel)
+
+----------------------------------------------------------------------------
+
+1006 Song of Protection
+
+      Through the aid of music and magic, the bard singing this song lends
+      extra magical protection to all members of the singer's group.
+
+      6MP 2MP/(120+5*plevel|360)s Singer's group +15 to spirit warding and DS
+      stackable.
+
+----------------------------------------------------------------------------
+
+1007 Kai's Triumph Song
+
+      While singing this song, the bard stirs the sense of confidence of all
+      members of his party, giving them increased fighting ability.
+
+      7MP 4MP/(120+5*plevel|360)s Singer's entire party gains +10 to AS.
+
+----------------------------------------------------------------------------
+
+1008 Mass Holding Song
+
+      Using the forces of air and vibration, this song will lower the
+      defenses of all not joined to the singer by 10 percent.
+
+      8MP 3MP/(120+5*plevel|360)s
+
+      Note: This is a mass effect of the first level song.  It is not
+            stackable on top of or prior to 1001 Holding Song.
+
+----------------------------------------------------------------------------
+
+1009 Sonic Shield Song
+
+      While singing this song, the bard creates a shield of air that can be
+      wielded in the left hand.
+
+      9MP 4MP/(120+5*plevel|360)s   The bonus is dependent upon level.
+      Normal shield +10 +1/3levels.  Left hand must be free to direct the
+      shield.  Song stopped if the air is shattered on a weapon clash.
+
+----------------------------------------------------------------------------
+
+1010 Illusionary Creature
+
+      Using subtle variations of intonation and magic, the bard may create
+      an illusionary creature that the singer can direct to perform some
+      limited tasks.
+
+      10MP 3MP/(120+5*plevel|360)s If the task includes attacking, target of
+      attack gets a chance to know the illusion's nature and if successful,
+      the illusion dissipates.  Otherwise the target may elect to direct an
+      attack at the illusion and suffer an attack RT, each attack and
+      counter attack allows for a spell warding check.
+
+----------------------------------------------------------------------------
+
+1011 Song of Peace
+
+      The singer creates a minor sanctuary where all creatures and players
+      are held passive due to the soothing rhythmic sounds of the song.
+
+      11MP 4MP/(120+5*plevel|360)s Possible that a creature may be immune or
+      ward against the effect.  If the singer moves, a roundtime will be
+      applied to reflect the difficulty of maintaining the song.
+----------------------------------------------------------------------------
+
+1012 Sonic Blade Song
+
+      While singing this song, a bard can weave vibrating air and magic
+      around his or her right hand into a weapon of the bard's choosing.
+
+      12MP 4MP/(120+5*plevel|360)s Weapon is +15 +1/3plevels and may shatter
+      on a clash ending the spell.  The weapon will do random vibration
+      injuries.
+
+----------------------------------------------------------------------------
+
+1013 Song of Unravelling
+
+      Much like pulling threads from a woven cloth, the spell allows the
+      bard to unravel the threads of magic from magical items, which the bard
+      may then absorb.
+
+      13MP Uses MP's drained from item to power spell. Every round caster
+      can drain off one charge from an item, half the MP's are absorbed by
+      the caster, the other half go to power the spell. If cast at a player
+      or creature, then MP's are drained, half being fed off to maintain the
+      magic of the song.  The effect continues until there is no magic left
+      or the singer stops the song.  Rate of discharge would be one charge
+      per round, with the item becoming unrechargeable.  Not singable with
+      other songs.
+
+      Note: Unless under the effects of a slow, the roundtime is 5 seconds.
+            Haste however will not improve the speed of the song.
+
+----------------------------------------------------------------------------
+
+1014 Item History
+
+      Calling upon unhindered pure elemental power, bards singing this
+      interlude enhance their ability to identify the exact properties of
+      items.
+
+      14MPs D:60 +1/2 per level added to a bard's natural ability to identify
+      items.
+
+----------------------------------------------------------------------------
+
+1015 Song of Depression (Blues)
+
+      Singing this song will cause all not joined to the singer to become
+      depressed, decreasing their desire to ward against magic and attack.
+
+      15MP 6MP/(120+5*plevel|360)s  All not joined to singer suffer -20 to
+      spirit warding and react slower than normal with less enthusiasm.
+
+----------------------------------------------------------------------------
+
+1016 Song of Rage
+
+      This song stimulates memories of anger in the target, causing it to
+      become enraged and attack with full force.  As a natural side effect,
+      the singing bard becomes the focus of the target's anger.
+
+      16MPs 4MP/(120+5*plevel|360)s single target will go to a fully
+      offensive stance and try to attack the singer relentlessly as long as
+      the song is maintained.
+
+----------------------------------------------------------------------------
+
+1017 Song of Noise
+
+      Calling upon the echoes of every song ever sung, the bard creates a
+      cacophony of sound, disrupting the magical forces in the area.
+
+      17MPs 7MP/(120+5*plevel|360)s May only be sung by itself.  This song
+      prevents magic in the room it is sung in by creating annoying and
+      disruptive noise. (Also known as Song of Oghier)
+
+----------------------------------------------------------------------------
+
+1018 Song of Power
+
+      The singer of this song becomes a moving focal point of magic in the
+      area, providing improved mana recovery for everyone near the singer.
+
+      18MPs 15MP/(120+5*plevel|360)s Maintaining this song creates a mana
+      focus that moves with the singer. There is a chance that the power
+      will break free, damaging all in room.  May cause disaster if another
+      is also trying to sing this song in the same room.  This will actually
+      accent natural focii, but will almost always injure the singer
+      and local focii created with mana focus (418).  Unlike a natural
+      mana focus, this spell does not provide increased experience
+      absorption.
+
+----------------------------------------------------------------------------
+
+1019 Eonak's Song of Glory
+
+      While singing this song, the bard magically enhances and inspires all
+      members of his or her party, enhancing their ability to attack and
+      recover from battle.
+
+      19MPs 12MPs/(120+5*plevel|360)s   All joined to caster receive +20 to
+      AS and recover health points at an accelerated rate. Not stackable with
+      Kai's Song. 
+
+----------------------------------------------------------------------------
+
+1020 Traveller's Song
+
+      Tapping into the elemental forces, the bard creates an illusion of
+      past revelry so real that his entire party is transported to the
+      location of the past event.
+
+      20MPs By singing this song, the caster's entire party is transported
+      to the nearest Inn, this includes the Hanging Inn on a failure.  Will
+      work anywhere that a ring will work.  Other side effects of the song
+      may include dizziness and thirst.  A failure can also result in loss
+      of mana and injuries upon arrival.
+
+----------------------------------------------------------------------------
+
+1025 Singing Sword Song
+
+      Through clever manipulation of vibrations, a bard singing this song
+      spell can direct his or her weapon to fly after the caster and attack
+      foes, using the same skill as the caster's.  While under the effects of
+      this song spell, the weapon is unbreakable, although it cannot break
+      any other item either.
+
+      25MPs 15MPs/(120+5*plevel|360)s
+
+      NOTE:  Caster gets 1/2 the normal 'contribution' points through damage
+      done with this weapon.  Controlling the sword is done with the TELL
+      verb (TELL SWORD TO ATTACK <target>, TELL ... RETURN, TELL ... STOP
+      ATTACKING). If, for some reason, the song spell is interrupted beyond
+      the control of the caster, the weapon will fall to the ground.  The
+      target of this spell must be in the same room as the caster, and the
+      sword will only follow the caster.  The sword is subject to a 5 second
+      RT.  The caster can continue to perform other functions without RT
+      from the attacks.  The singer may even attack with another weapon in
+      his/her hands. 
+
+----------------------------------------------------------------------------
+
+1030 Song of Sonic Disruption
+
+      The bard singing this song is able to resonate their voice to such a
+      degree that all not joined to the singer must suffer sonic disruption
+      of their bodies.
+
+      30MP 20MPs/(120+5*plevel|360)s Once a round every non-joined player
+      and all critters must resist the resonant vibrations of the song or
+      suffer vibration injuries.
+
+----------------------------------------------------------------------------
+1050 Song of Mana Streaming 
+
+      50MP  Singer and all in party are transported from one natural mana
+      focus to another.  If cast while not at a focus, the singer and his
+      party are transferred to the nearest focus, but all party members and
+      the bard get the rough ride.  This is valid between any two natural
+      focii, and on any plane that has naturally occurring mana focii.
+
+All songs cost their level in MPs per time when cast.  After the second song,
+there is an additional charge of MP's equal to the square of the number of 
+songs over the second maintained song, added every 120+5*plevel seconds. 1MP 
+for 3, 4MPs for 4, 9MPs for 5, 16MPs for 6, etc......
+

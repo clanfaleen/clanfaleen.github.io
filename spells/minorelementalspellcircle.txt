@@ -1,0 +1,296 @@
+                            Minor Elemental Spell Circle
+                            ----------------------------
+
+Important Policy Note
+
+
+
+Implementation
+
+As of 8/12/93, this spell circle is implemented up through level 25.
+
+----------------------------------------------------------------------------
+
+401 Elemental Defense I    Duration: 1 min/level                    ELEMDEF1
+
+  +5 to Physical DS
+  +5 to Spirit wardings
+  -5 vs Elemental Attacks
+
+
+  Notes:
+
+  This spell affords some minor protection from all attack types.
+----------------------------------------------------------------------------
+
+402 Presence              Duration: Immediate                       PRESENCE
+
+   When cast on a person, this spell allows the target to detect any hidden
+   or invisible people or creatures in the same room.
+
+   Notes:
+
+   Detecting a hidden or invisible character simply reveals that they are
+   present.  The exact location of the hidden or invisible character is not
+   disclosed, therefore they remain hidden or invisible and the target
+   character cannot direct actions against them.
+----------------------------------------------------------------------------
+
+403 Picking Enhancement   Duration: 1 min (Not cumulative)         PKENHANCE
+
+   +10, +1 per level of the caster to the caster's lockpicking skill.
+   +5, +1 per 2 levels of the caster to another target's lockpicking skill.
+
+   Notes:
+
+   This spell enhances the lockpicking ability of the target character.
+   When used upon the caster, the spell has greater potency than when cast
+   upon another character.  Disarm skill is not enhanced by this spell.
+
+----------------------------------------------------------------------------
+
+404 Disarm Enhancement    Duration: 1 min (Not cumulative)         DSENHANCE
+
+   +10, +1 per level of the caster to the caster's disarm skill.
+   +5, +1 per 2 levels of the caster to another target's disarm skill.
+
+   Notes:
+
+   This spell enhances the trap disarming ability of the target character.
+   When used upon the caster, the spell has greater potency than when cast
+   upon another character.  Lockpicking skill is not enhanced by this spell.
+----------------------------------------------------------------------------
+
+405 Elemental Detection   Duration: Immediate                     ELEMDETECT
+
+   When cast on a person or creature, this spell will reveal the nature of
+   any spells that may currently be in effect.  When cast on an object, this
+   spell will reveal the exact nature of any spell that may be stored in an
+   object, such as a wand, or in the case of an enchanted weapon or armor,
+   will reveal the plus of the object, or will indicate other special
+   abilities of the object.
+
+    Notes:
+
+   The amount of information provided by this spell is directly related to
+   the level of the caster.  The caster will not be able to identify spells
+   of a higher level than his/her own level.  As the caster advances in
+   level, more information regarding the nature of magical items will be
+   revealed, including the number of charges in an item, the exact plus of
+   weapons and armor, and other special qualities of items.  Some magicks
+   are so potent or complicated as to be resistant to this spell.
+----------------------------------------------------------------------------
+
+406 Elemental Defense II   Duration: 1 min/level                    ELEMDEF2
+
+  +10 to Physical DS
+  +10 to spirit warding
+  -10 vs Elemental Attacks
+
+   Notes:
+
+  This spell affords some moderate protection from all attack types.
+----------------------------------------------------------------------------
+
+407 Unlock       Duration: Immediate                                  UNLOCK
+
+    Causes closed and/or locked containers or doors to pop open.
+
+   Notes:
+
+   The percentage chance of success is based on the aura of the caster
+   and the caster's level.  An unsuccessful attempt to cast this spell has
+   a chance to set off any trap that may be a part of the locking device.
+   This spell is not enhanced by the use of Picking Enhancement.
+----------------------------------------------------------------------------
+
+408 Disarm      Duration: Immediate                                   DISARM
+
+   Causes a trap on a container or door to be disarmed.
+
+   Notes:
+
+   The percentage chance of success is based on the aura of the caster
+   and the caster's level.  An unsuccessful attempt to cast this spell may
+   set off any resident traps.  A successful cast on a trapped mechanism
+   will provide positive indication that a trap has been disarmed, but a
+   successful cast on a mechanism free of traps, or a failed cast will not
+   necessarily reveal the presence of or lack of a trap.
+
+----------------------------------------------------------------------------
+
+409 Elemental Blast    Duration: Immediate                         ELEMBLAST
+
+   This spell is an attack against the target using pure elemental power.
+
+   Notes:
+
+   The target character or creature that fails a spirit warding is
+   subjected to a crushing injury.  The severity of the injury is
+   based on the degree of the spirit warding failure, and the difference in 
+   levels between the caster and the target.
+----------------------------------------------------------------------------
+
+410 Elemental Wave     Duration: Immediate                          ELEMWAVE
+
+   This spell causes the mana in the area to "pulse" in a physical
+   wave that may result in knocking down all characters and creatures
+   in the area.
+
+   Notes:
+
+   The wave moves outward from the caster and the caster has some limited
+   control over the direction that the wave moves in.  All characters and
+   creatures not joined to the same group as the caster must make a saving
+   roll, or fall prone.
+----------------------------------------------------------------------------
+
+411 Elemental Weapon    Duration: 3 strikes/level                   ELEMWEAP
+
+   This spell adds a magical +20 to the AS of a weapon and provides that
+   weapon with the ability to inflict intermittent blasts of special
+   types of damage.
+
+   Notes:
+
+   The weapon that this spell is to be cast upon must be free of any other
+   magical or holy enchantments.  The exact nature of the special damage
+   imparted by the weapon will vary from one caster to another.  Some will
+   find that the spell imparts blasts of heat, others will impart blasts of
+   cold, and others will impart blasts of electricity.
+----------------------------------------------------------------------------
+
+412 Weapon Deflection   Duration: 10 sec/level                     WPDEFLECT
+
+   This spell causes the target to suffer a -25 AS penalty.
+
+   Notes:
+
+   This spell is subject to a Spirit Warding Roll.
+----------------------------------------------------------------------------
+
+413 Elemental Saturation   Duration: 10 sec/level                    ELEMSAT
+
+   This spell causes the target to suffer a -25 penalty to all Spirit
+   Warding.
+
+   Notes:
+
+   This spell is subject to a Spirit Warding at normal modifications.
+----------------------------------------------------------------------------
+
+414 Elemental Defense III   Duration: 1 min/level                   ELEMDEF3
+
+  +25 to Physical DS
+  +25 to Spirit Wardings
+  -25 vs Elemental Attacks
+
+  Notes:
+
+  This spell affords powerful protection from all attack types.
+----------------------------------------------------------------------------
+
+415 Elemental Strike     Duration: Immediate                      ELEMSTRIKE
+
+   This spell is a powerful attack against the target using pure elemental
+   power.
+
+   Notes:
+
+   A Spirit Warding applies to this spell.
+----------------------------------------------------------------------------
+
+416 Piercing Gaze         Duration: Immediate                     PIERCEGAZE
+
+   This spell allows the caster to see into, behind or under containers of
+   all types.
+
+   Notes:
+
+   Many containers carry natural resistance to the power of this spell
+   based on the material used in the construction of the container.
+----------------------------------------------------------------------------
+
+417 Elemental Dispel      Duration: Immediate                     ELEMDISPEL
+
+   When cast on a character or creature, this spell will have one of the
+   following effects:
+     1) Cause the target to lose any prepared spell, along with the
+        appropriate number of mana points for that spell.
+     2) Cause a magical effect in force on the target to be canceled.
+     3) Cause the target to lose part or all of their Mana Points.
+   When cast on an item, this spell has a chance to drain charges, dispel
+   any stored spells, remove part or all of an enchantment, or remove
+   some other special quality.
+
+   Notes:
+
+   The effect of casting on a character or creature is in order of precedent
+   stated.  The chance of failure depends on the level of the caster and the
+   level and type of stored spell or enchantment.
+----------------------------------------------------------------------------
+
+418 Mana Focus          Duration: 1 min/lvl (Not cumulative)       MANAFOCUS
+
+   This spell allows the caster to temporarily gather the local elemental
+   forces, creating a small Mana Focus.
+
+   Notes:
+
+   When handling raw elemental power, there is always a chance of
+   failure, and a chance that the power will break free from control with
+   chaotic results.
+----------------------------------------------------------------------------
+
+419 Mass Elemental Defense   Duration: 1 min/level                  MASSEDEF
+
+  +25 to Physical DS
+  +25 to Spirit Wardings
+  -25 vs Elemental Attacks
+  To all characters joined to the caster.
+
+   Notes:
+
+   If cast on a target other than him/herself, this spell operates as
+   a normal defense spell, and will not radiate effects to characters
+   joined to that target.
+
+----------------------------------------------------------------------------
+
+420 Magic Item Creation      Duration: Permanent                     MAGITEM
+
+   This spell allows the caster to imbue any known spell of a lesser level
+   into a specially prepared object.
+
+   Notes:
+
+   This spell allows for the creation of Wands, Staves, Rings, etc.  Objects
+   that are to receive the spell must be specially prepared or forged under
+   stringent conditions and the component objects are typically
+   only available from special merchants.
+----------------------------------------------------------------------------
+
+425 Elemental Targeting    Duration: 30 sec/level                   ELEMTARG
+
+   This spell provides a plus to the AS of the target equal to the caster's
+   level.
+----------------------------------------------------------------------------
+
+430 Elemental Barrier      Duration: 30 sec/level                   ELEMBARR
+
+   + Caster's Level to DS
+   + Caster's Level to Spirit Wardings
+   - Caster's Level vs Elemental Attacks
+
+----------------------------------------------------------------------------
+
+450 Minor Elemental        Duration: Immediate                     MNELEMENT
+
+   This spell allows the caster to transport to another location.
+
+   Note:
+
+   The caster, and any characters joined to him/her will be immediately
+   transported to the nearest Mana Focus.
+----------------------------------------------------------------------------
+

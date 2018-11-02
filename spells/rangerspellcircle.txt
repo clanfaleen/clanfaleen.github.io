@@ -1,0 +1,225 @@
+                           Ranger Spell Circle
+                           -------------------
+
+
+Important Policy Note
+
+
+Implementation
+
+As of September 11, 1995, all spells in this circle have been implemented
+except 605 and 625.
+
+-----------------------------------------------------------------------------
+
+ 601 Natural Colors    15 sec/lvl (100 sec minimum)                  NTRCOLOR
+
+    This spell attunes the target with their surroundings, making him or her
+    more difficult to see, and correspondingly more difficult to attack.
+    Activities such as hiding and stalking are also easier while this spell
+    is in effect.
+
+-----------------------------------------------------------------------------
+
+ 602 Resist Elements            60 sec/lvl                          RESISELEM
+
+    This spell will create an area of near-constant temperature around the
+    caster, offering protection against extreme forms of heat, cold, and
+    electricity (attack or otherwise).
+
+-----------------------------------------------------------------------------
+
+ 603 Foraging                  15 sec/lvl                              FORAGE
+
+    While under the effect of this spell, the caster's sense of the
+    plant-life in the local area is greatly heightened.  Living herbs and
+    other plants in the area, which might otherwise be difficult to find,
+    will become obvious to the caster.  This spell is very useful on
+    expeditions to gather herbs and other valuable plants.
+
+-----------------------------------------------------------------------------
+
+ 604 Skinning                   60 seconds                           SKINNING
+
+    This spell will make the caster more dexterous and better able to
+    skin a carcass.  While this spell lasts a very short time, it will
+    add significantly to the caster's skill with the skinning knife.
+
+-----------------------------------------------------------------------------
+
+ 605 Tracking                   15 sec/lvl                           TRACKING
+
+    While under the effect of this spell, the caster gains supernatural
+    skill to decipher tracks in the undergrowth and spot tiny clues in
+    the area, to make him or her better able to track people or creatures.
+    These tracks may indicate which creatures (and perhaps the direction
+    they were headed) have passed through the area recently.
+
+-----------------------------------------------------------------------------
+
+ 606 Phoen Strength             30 sec/level                         PHEONSTR
+
+    Phoen, god of the sun and husband of Oleani, lends his great strength
+    to the caster when this spell is cast.  This spell will increase the
+    caster's inner strength, making him or her more likely to hit a target
+    for the duration of the spell.  This spell may only be cast outdoors.
+-----------------------------------------------------------------------------
+
+ 607 Sounds                     2 sec/level                            SOUNDS
+
+    This spell will create distracting sounds all around the target, making
+    him/her/it less able to defend themselves.  While this spell has an
+    extremely short duration, it is known to be very difficult to resist.
+
+-----------------------------------------------------------------------------
+
+ 608 Camouflage               Instantaneous                        CAMOUFLAGE
+
+    While outdoors, the caster of this spell will be able to use the
+    surroundings to blend in with such success as to be effectively
+    invisible.  This being an extreme benefit in combat, it will also
+    make the caster significantly more likely to strike his/her target
+    when attacking from their hidden position.
+
+-----------------------------------------------------------------------------
+
+ 609 Sunburst               Instantaneous                            SUNBURST
+
+    A great pulse of light will come from the caster's hand when this spell
+    is cast, causing all those hidden to become obvious to all in the
+    room.  While this will not reveal invisible targets to the caster, it
+    will make him/her aware of their presence.
+
+-----------------------------------------------------------------------------
+
+ 610 Tangle Weed                   varies                            TANGWEED
+
+    This spell will cause a vine to animate (or grow) in a particular area
+    and begin to lash about at all those not joined to the caster.  The
+    vine is likely not only to attack, but also knock over any targets
+    if it strikes them.
+
+-----------------------------------------------------------------------------
+
+ 611 Mass Colors               30 sec/level                         MASSCOLOR
+
+    This will allow the caster's entire group to feel the effects of the
+    first level spell, natural colors, for a longer duration.  See 601 for
+    more information on how this spell works.
+
+-----------------------------------------------------------------------------
+
+ 612 Breeze                     3 sec/level                            BREEZE
+
+    This spell will create a small whirlwind in an area, creating moderately
+    strong breezes which will blow away many forms of clouds, including
+    gas clouds, poison clouds, and many fog clouds.  While this spell does
+    not directly modify combat, it can be invaluable protection for some
+    dangerous hunting environments.
+
+    Note:  Light objects lying about the area have a tendency to get
+    tossed about by this spell.
+
+-----------------------------------------------------------------------------
+
+ 613 Self Control              60 sec/level                         SELFCONTR
+
+    This powerful spell will allow the caster to focus his or her will, as
+    well as energy from the natural surroundings, and set up a powerful
+    protection field around themselves.  This spell will not only offer
+    physical protection (+25 DS) but spell protection as well (+25 spell
+    warding).
+
+-----------------------------------------------------------------------------
+
+ 614 Imbue                     Instantaneous                            IMBUE
+
+    When cast on a piece of natural, organic material (such as a tree
+    branch), the ranger casting this spell will channel powerful energy
+    into the object, changing its basic structure.  The result will allow
+    the affected object to be turned into a magical item by someone with the
+    20th level minor elemental spell.  The higher level the ranger, the
+    greater magic the object can hold.
+
+    Note:  Some organic objects, due to their structure, may be unaffected
+    by this spell.
+
+-----------------------------------------------------------------------------
+
+ 615 Whispering Willow          30 sec/level                        WHISPWILL
+
+    This spell will allow the caster to project his or her voice over a
+    long distance, while having it remain but a mere whisper.  When used
+    outdoors, and when attempting to communicate with someone who is
+    also outdoors, the natural surroundings of the area will carry
+    the caster's voice to whomever s/he wishes to speak with.
+
+-----------------------------------------------------------------------------
+
+ 616 Spike Thorn               Instantaneous                       SPIKETHORN
+
+    This spell will cause large, spiked thorns to grow under the target
+    which will very likely damage him/her/it.  The amount of damage
+    depends not only on the ranger's level, but also the target's level,
+    and the conditions under which it was cast.  This spell can be
+    very difficult to ward against.
+
+    Note:  While this spell will work indoors, it is more powerful when
+    used where there is already vegetation present in the area.
+
+-----------------------------------------------------------------------------
+
+ 617 Sneaking                  15 sec/level                          SNEAKING
+
+    When active, this spell will allow the caster to control all sound that
+    emanates from his or her body, allowing a greater chance of hiding,
+    sneaking, and stalking.  When the caster also has the Natural Colors
+    spell active, the two together make the caster nearly imperceptible when
+    outdoors, thus allowing him or her to move from room to room unnoticed
+    by all except only the most perceptive.
+
+    Note:  Although this spell allows the caster to move around mostly
+    unnoticed, if a creature or player specifically looks around the room
+    for a new target, the caster will still be noticed as the combination
+    of the two spells does not allow for perfect invisibility.
+
+-----------------------------------------------------------------------------
+
+ 618 Mobility                   30 sec/level                         MOBILITY
+
+    This spell will increase the ranger's reaction times and reflexes,
+    allowing him or her to dodge "special" attacks, such as flying webs
+    or acid attacks.  This spell also will provide some slight protection
+    against certain specific types of spells such as Tangle Weed.
+
+-----------------------------------------------------------------------------
+
+ 619 Mass Calm                    varies                             MASSCALM
+
+    An experienced ranger is adept in all forms of animal empathy.  With
+    this spell, the ranger takes the right non-threatening actions, says
+    the correct soothing words, and makes calming gestures in order to
+    sedate all creatures in the room.  Although this spell has a short
+    duration, it is very difficult to ward against.
+
+-----------------------------------------------------------------------------
+
+ 620 Killer Weed              varies                                 KILLWEED
+
+    This powerful spell is similar in nature to the 10th level spell,
+    Tangle Weed, and when cast indoors will create a vine nearly identical
+    to that of the one generated by that spell outdoors.  When this spell
+    is cast outdoors, the thorny vine which grows from the ground will
+    become much more animated and violent, actually injuring the target
+    as the vine drags him/her/it to the ground.
+
+-----------------------------------------------------------------------------
+
+ 625 Nature's Touch      15 sec/level, maximum 5 minutes             NTRTOUCH
+
+    Once cast, the ranger with this spell active will feel the power of
+    nature surround him or her no matter where they are.  This means the
+    caster will be able to summon the energy to cast a lower level spell
+    as if they were outside, even if they are inside.
+
+

@@ -1,0 +1,269 @@
+                         Major Elemental Spell Circle
+                         ----------------------------
+
+Important Policy Note
+
+
+Implementation
+
+As of 4/5/94, spells 1-25 have been implemented.
+
+-----------------------------------------------------------------------------
+
+501  Sleep I                 Duration: 5 seconds/level                 SLEEP1
+
+    A very relaxed feeling will overcome the target of this spell and
+    dull its senses, possibly causing it to fall into a magically
+    induced slumber.  The actual effect depends on how badly the creature
+    fails its spiritual warding:
+
+
+    If the spiritual warding fails by less than or equal to 10, the creature
+    is only dazed by the spell (no useful affect, just a momentary pause). If
+    the spiritual warding fails by less than or equal to 25, then the
+    creature becomes very drowsy for 10 seconds.  Failure by any more than
+    this will cause the creature to fall asleep (and fall over if
+    appropriate).  Any loud noises or sudden actions can wake the creature.
+
+    Creatures which do not normally sleep (such as the undead) are
+    unaffected by this spell.
+
+    Because this spell is weak in nature, it only works on creatures up
+    to, and including, level 4.
+
+-----------------------------------------------------------------------------
+
+502  Spell Store             Duration: Special                     SPELLSTORE
+
+    Often times the outcome of a battle is determined by who can react
+    first.  Because the wizard often is hindered by lengthy gestures and
+    chants, Spell Store has become an invaluable first strike weapon.
+    After casting this spell, the caster can then cast any of his or her
+    other spells which will stay prepared for an indefinite period of
+    time. The spell to be stored must be cast within 30 seconds after
+    Spell Store. Note that although spell store does hold a spell for a
+    long time, it does not do so forever; the exact time when this fails
+    depends on the caster's activity.
+
+ ----------------------------------------------------------------------------
+
+503  Blur                    Duration: 60 seconds/level                  BLUR
+
+    Although the logic behind this spell is quite simple, its effect is
+    very potent.  With a few quick gestures, the caster can cause his or
+    her image to become distorted and difficult to focus upon.  The
+    result is that the wizard gains +10 to DS and thus is harder to hit in
+    combat.
+
+-----------------------------------------------------------------------------
+
+504  Slow I                  Duration: 1 minute                         SLOW1
+
+    This spell makes the air surrounding its victim viscous, effectively
+    slowing down all of its actions.  The result is that the target's
+    actions/round-times take three seconds longer than normal.  
+-----------------------------------------------------------------------------
+
+505  Sleep II                Duration: 8 seconds/level                 SLEEP2
+
+
+    This spell works as Sleep I (501) but is effective against higher
+    level creatures up to level 12.  The exact effect depends on how
+    badly the creature fails its spiritual warding:
+
+    If the spiritual warding fails by less than or equal to 12, the creature
+    is only dazed by the spell (no useful affect, just a momentary pause).
+    If the spiritual warding fails by less than or equal to 29, then the
+    creature becomes very drowsy for 10 seconds.  Failure by any more than
+    this will cause the creature to fall asleep (and fall over if
+    appropriate).  Any loud noises or sudden actions can wake the creature.
+
+-----------------------------------------------------------------------------
+
+506  Haste I                 Duration: 1 minute                        HASTE1
+
+    In a not completely understood manner, invoking the magic of this
+    spell distorts time around the target.  To the recipient, the world
+    seems to slow down, allowing the recipient to react more quickly than
+    naturally possible.  Fortunately, the power of the spell fuels the
+    extra energy needed to operate at an accelerated rate.  The target's
+    roundtime/actions will take three seconds less than normal.
+
+-----------------------------------------------------------------------------
+
+507  Elemental Deflection    Duration: 20 seconds/level               DEFLECT
+
+    Since it is not always possible to carry a shield, this spell can
+    be a blessing.  This spell creates a minor shield around the body of the
+    caster which has the affect of adding +20 to DS.  This shield does not
+    affect spells, except elemental attacks.  The deflection is sometimes
+    only enough to redirect how hard the blow hits.
+
+
+------------------------------------------------------------------------------
+508  Elemental Bias         Duration: 30 seconds/level               ELEMBIAS
+
+    Because Elemental Deflection offers limited spell defense, this spell
+    can provide excellent additional protection.  It works like Elemental
+    Deflection by creating an invisible minor shield around the caster,
+    but this one works against non-elemental attack spells by adding
+    +20 to spiritual warding.
+
+
+------------------------------------------------------------------------------
+509  Strength               Duration: 30 seconds/level               STRENGTH
+
+    An ancient spell which has long been a part of a wizard's spell book.
+    The strength spell enables its recipient to better utilize his or her
+    body and thus cause an apparent increase in strength.  This has the
+    effect of adding +15 to the target's AS.
+
+-----------------------------------------------------------------------------
+
+510  Unpain                  Duration: 5 minutes                       UNPAIN
+
+    While elemental spells do not normally deal with the healing arts, this
+    one is an exception.  The unpain spell provides a temporary restoration
+    of lost health points for the duration of the spell.  The target will get
+    a maximum of 50 HPs for 5 minutes, the total not to exceed the max of the
+    target.  These points will vanish when the spell ends.
+
+-----------------------------------------------------------------------------
+
+511  Floating Disk           Duration: Special                      FLOATDISK
+
+    The floating disk spell, which is believed to be one of Melgorehn's
+    inventions, creates an insubstantial disk that can be used to hold
+    objects by the caster.  The disk will follow the caster around for
+    the duration of the spell and allows for the temporary hauling of
+    many objects from one place to another.  The caster is the only one
+    able to OPEN or CLOSE the disk.
+
+    The spell actually has an indefinite duration and will continue to
+    exist until the player logs off or disconnects or some other
+    situation breaks the magical 'thread' which binds the disk to the
+    caster.  When this happens, the disk will vanish and the objects will
+    fall to the ground.  Note that GemStone III will attempt to keep the
+    disk around for awhile after a disconnect so that the caster can
+    attempt to reconnect; this duration is only a a couple minutes so get
+    back online fast.  We cannot be responsible for objects lost while
+    being transported on a disk as this is a fragile and unpredictable
+    system for object holding.
+ ----------------------------------------------------------------------------
+
+512  Slow II                 Duration: 1 minute                         SLOW2
+
+    This works as Slow I but increases the actions/round-times by 6
+    seconds instead of 3.
+
+-----------------------------------------------------------------------------
+
+ 513  Sleep III               Duration: 10 seconds/level               SLEEP3
+
+    This spell works as Sleep I (501) but is effective against higher
+    level creatures up to level 18.  The exact effect depends on how
+    badly the creature fails its spiritual warding:
+
+    If the spiritual warding fails by less than or equal to 14, the creature
+    is only dazed by the spell (no useful effect, just a momentary pause).
+    If the spiritual warding fails by less than or equal to 33, then the
+    creature becomes very drowsy for 10 seconds.  Failure by any more than
+    this will cause the creature to fall asleep (and fall over if
+    appropriate).  Any loud noises or sudden actions can wake the creature.
+
+-----------------------------------------------------------------------------
+
+514  Haste II                Duration: 1 minute                        HASTE2
+
+    This spell works as Haste I but decreases actions/roundtimes by 6
+    seconds instead of 3.
+
+-----------------------------------------------------------------------------
+
+515  Rapid Fire              Duration: 5 seconds/level              RAPIDFIRE
+
+    This powerful spell is used to augment attack spells, in particular
+    elemental attack spells.  Once cast, the next spell which is prepared
+    will be prepared again once cast, automatically for the duration of
+    the Rapid Fire spell.  Therefore once Rapid Fire is in effect, you may
+    then prepare, for example, a Minor Fire spell and then continue to
+    cast it with no preparation step (or time) in-between for as long as
+    the Rapid Fire spell is in effect.  Note that to switch spells being
+    used, use a RELEASE command and then PREPARE a new spell.
+
+-----------------------------------------------------------------------------
+
+516 DATELINE FEBRUARY 3th 1998:
+
+Mana Leech Spell Discovered:
+
+The Major Elemental Spell 516 has been changed from Life Leech to Mana Leech.  
+Now when it is cast at a target, the caster will drain a random amount of mana 
+from the target up to 1 mana per 3 warding failure.  The amount drained will 
+never be more than 1 mana per level of the caster or more than the target has.
+-----------------------------------------------------------------------------
+
+517  Charge Item             Duration: Up to 15 minutes            CHARGEITEM
+
+    This spell enables the caster to tap into the mana pool and redirect some
+    of it into a magical focus.  This focus must be a specially treated gem
+    of at least 1000 silvers in value.  By casting this spell at the treated
+    gem, the focus will be created and begin to accumulate the mana.  The
+    wizard must then concentrate completely and continue to cast the spell
+    until the gem has become sufficiently charged. (Note that this only costs
+    1 mana point after the initial cast.) At this point, energy from it can
+    be directed into the desired item.  The chance of success is based on the
+    caster's level, and the level of the spell. Extraordinary failure has
+    been known to result in loss of mana points, injury to the wizard, and
+    even destruction of the item.  The mana cost to recharge an item is 1
+    mana point per charge times the level of the spell being recharged.
+
+-----------------------------------------------------------------------------
+
+518  Cone of Lightning       Duration: Instantaneous               CONEOLIGHT
+
+    While Major Shock is quite powerful, it still is not a suitable defense
+    against multiple opponents.  Because of this, the Cone of Lightning spell
+    was researched.  It strikes as hard as a Major Shock, but the bolt arcs
+    out in all directions and can hit many nearby targets.  Anyone or
+ anything not in the caster's group will be affected by this attack.
+
+
+------------------------------------------------------------------------------
+519  Telekinetic Disarm      Duration: Instantaneous                 TKDISARM
+
+    This spell enables the caster to shape mana into a physical force. By
+    merely concentrating on a victim, the air will harden around its weapon
+    or shield and tear it from the victim's hands if it fails a spiritual
+    warding.  If the caster has an empty hand, the force will conveniently
+    place it there.  Otherwise, the item will be torn to the ground. This
+    spell is ideal for peaceful wizards who still wish to defend themselves.
+
+
+------------------------------------------------------------------------------
+520  Major Sleep             Duration: 10 seconds/level               MJSLEEP
+
+    This spell works as Sleep I (501) except that it is effective on
+    creatures of any level.  Furthermore, potency of this spell imposes
+    an additional -25 to the target's attempts to ward against it.
+
+
+------------------------------------------------------------------------------
+
+525  Meteor Swarm            Duration: 1 to 3 minutes                 METEORS
+
+    Perhaps one of the most destructive spells known to spell users is
+    Meteor Swarm.  The caster throws his or her arms skyward while
+    uttering the phrases of invocation.  While this seems innocent at
+    first, within 20 seconds after this spell is cast, a devastating
+    barrage of flaming meteors will begin to fall on the area
+    inflicting terrible damage to anyone or anything unfortunate enough
+    to be in the area.  The meteors will continue to fall in a wide
+    radius around the area for several minutes after the initial
+    strike.
+
+    While this spell is much more effective outdoors, it may shake
+    structures and injure those inside with falling debris.
+
+
+

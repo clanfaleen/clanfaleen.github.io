@@ -1,0 +1,313 @@
+                          Sorcerer Spell Circle
+                          ---------------------
+
+-----------------------------------------------------------------------------
+
+ 701 Blood Burst                                                   BLOODBURST
+
+   When cast upon a healthy target (which has failed its spirit warding),
+   this will result in  bleeding of at least 1/round, if the target does in
+   fact bleed.  Each successive casting will increase the bleeding
+   by at least 1/round.
+
+   Note:  Due to the nature of some creatures, such as undead and golems,
+   they may be immune to this spell as they do not bleed.
+
+-----------------------------------------------------------------------------
+
+ 702 Mana Disruption                                                MANADSRPT
+
+   Causes the target to suffer bone and tissue damage as if it had fallen
+   a long distance.  If the target fails its spirit warding by (1-5), he
+   takes an 'A' impact injury; (6-10) = 'B'; (11-20) = 'C'; (21-30) = 'D';
+   31-up) = 'E'.  The target must be at least within arm's reach (engaged).
+   There may be additional internal damage done (health points), which will
+   be relative to the severity of the injury.
+
+-----------------------------------------------------------------------------
+
+ 703 Forget                  Duration: 15 seconds                      FORGET
+
+   The target will forget whatever spell it is presently preparing or
+   has prepared (prior to casting) and will not be able to cast again
+   for the duration of the spell.   If the target does not have a spell
+   warmed (or warming) when the forget  spell is cast, then the target
+   will be incapable of casting for the duration of this spell.
+
+   This spell is extremely hard to resist.
+
+-----------------------------------------------------------------------------
+
+ 704 Phase                                                              PHASE
+
+    This will momentarily cause an object to 'fade' from existence,
+    allowing the sorcerer to pass through it briefly.  This allows
+    the caster to pass through most forms of doors, reach into closed
+    containers and perhaps remove the contents, and in some cases will
+    allow passage through magical portals.
+
+    Note:  Due to the extremely short duration of this spell, only the
+    caster will be able to manipulate the phased objects.
+
+-----------------------------------------------------------------------------
+
+ 705 Disintegrate 						 DISINTEGRATE 
+
+    When the target fails its warding this spell can remove portions of the
+    target's body causing significant critical and concussion damage. In the
+    case of non corporeal targets the spell will only cause concussion damage.
+
+    Note: At the time of these writings the spell only works well on a 
+    handful of creatures, but it will most likely be altered to deal more
+    powerful critical hits as mana disruption will be altered to deal more 
+    damage. 
+
+-----------------------------------------------------------------------------
+
+ 706 Mind Jolt               Duration: 1 sec/1 failure               MINDJOLT
+
+   Causes the target's brain to be jolted by a minor electrical shock whose
+   phase is in opposition to the synaptic network communication causing
+   the target to be stunned.
+
+-----------------------------------------------------------------------------
+
+ 707 Eye Spy                 Duration: 30sec/level                     EYESPY
+
+   One of the caster's eyes grows tiny batlike wings and is able to fly
+   away from the caster.  The caster has complete control over the eye
+   and will be able to see through it.  The eye is controlled similarly to
+   the familiar (wizard base, level 20) spell.  If the eye is not in the same
+   room with the caster when the spell's duration expires, the caster will
+   lose the eye and take 3 to 30 points of damage.
+
+   The flying eye is, in reality, an illusion, and therefore cannot be
+   attacked, webbed, affected by cloud spells, etc.  Its movements, though,
+   are restricted to what it can see.  It cannot go through closed doors,
+   or other areas where vision is limited.
+
+-----------------------------------------------------------------------------
+
+ 708 Limb Disruption  						  LIMBDISRUPT
+
+   A most painful spell. Depending on the warding failure this can cause one
+   of the target's limbs to break or even explode and make the target fall to
+   the ground. If the caster has enough skill at aiming spells they can even
+   focus the spell at and hit a specific limb on their target.
+
+   Training Tips: In the focused form, someone will require 1.5X their 
+   training in the spell aim skill to receive no penalty when aiming the 
+   spell. In its unaimed form, a lesser amount of spell aiming is required 
+   to by pass penalties.
+
+
+-----------------------------------------------------------------------------
+
+ 709 Quake                                                              QUAKE
+
+   A minor quake is caused in the caster's location, and all adjacent rooms.
+   Everyone in the area of effect must make a moderate saving roll to
+   remain standing.  Note that the effect is actually an illusion, the
+   disruption is not in the ground but in the minds of everyone in the area
+   of effect.  As such no structural damage will result and the caster is
+   completely immune to the effect.
+
+   Note:  Attacking a fallen opponent lowers their AS and DS by 50.  This
+   is an easy way to get a big advantage over an opponent.  This spell is
+   more likely to cause victims to fall down than the wizard base Tremors
+   spell.
+
+-----------------------------------------------------------------------------
+
+ 710 Energy Maelstrom        Duration: variable                     MAELSTROM
+
+    The caster summons dark energy to swirl around him or her, creating a
+    storm which will blast through everyone and everything in the room.  A
+    most potent spell which can be very dangerous to bystanders.
+
+-----------------------------------------------------------------------------
+
+ 711 Pain Infliction  							 PAIN
+
+   Target loses up to 25% of its remaining health points (i.e., those not 
+   already taken). This spell is cumulative.
+
+   Note: This is a very nice group hunting spell, since our other spells are
+   so deadly they tend to not give others a chance to attack. 
+
+-----------------------------------------------------------------------------
+
+ 712 Unassigned 						   Unassigned 
+
+   Who knows what shall await this elusive spell...maybe a bolt spell maybe a 
+   defense spell, or possibly a spell to rid the world of halfing wizards! 
+
+
+-----------------------------------------------------------------------------
+
+ 713 Nightmare    Duration: 1 sec/1 failure, Maximum 90 seconds.    NIGHTMARE
+
+    Each person and creature has its own specific worst nightmare, which
+    the sorcerer is able to summon with this spell.  For most players, it
+    will be a certain creature which will suddenly shimmer into view and
+    begin to battle them.  Just as one cannot battle their nightmares,
+    the target will be unable to battle this creature.  It will seem to
+    them as if every second they are about to die in some hideous manner.
+
+    Note:  The spell may not begin until a few seconds after it has been
+    cast in order for the illusion to develop.
+
+    Note:  The unfortunate player or creature affected by this spell will
+    often be stunned, fall to the ground, scream in fright, beg for
+    mercy, and sometimes take damage.
+
+-----------------------------------------------------------------------------
+
+ 714 Will Enhancement  	  Duration: variable		          WILLENHANCE 
+ 
+    This spell will enhance the will power of the target. When self cast this
+    spell uses the self discipline of the caster to strengthen their resolve           against certain mental and spiritual attacks and effects, or when used             offensively it will increase the caster's abilities with certain spells 
+    and effects. When cast at another the charisma of the caster is used to
+    boost the resolve of the target based upon the target's self discipline. 
+    Though only about half as effective when being cast at another, Will
+    Enhancement can still be a life saver in certain situations. As time
+    passes this effect will slowly wear out. If the spell was not self cast; 
+    then the distance from the caster can also have a negative impact upon 
+    the spell's strength and duration. As this effect is used either
+    offensively or defensively it will weaken based upon how powerful the
+    effected magics are.
+
+    NOTE: This is a very personal spell and its duration and usefulness will 
+    vary with each user. 
+
+    Note: A spiritualist will gain more from this spell then a elementalist.
+    What that means we will have to wait to see. 
+ 
+-----------------------------------------------------------------------------
+
+ 715 Curse                  Duration: variable                          CURSE
+
+    Curses tend to be specific to the caster.  Most sorcerers will have
+    curses which will modify AS, DS, casting ability, spell warding ability,
+    etc.  The form of curse the caster has will never change.
+
+    Note:  This spell may be neutralized by the clerical spell 'Remove
+    Curse'.  As well, when this spell is cast upon items, it will curse them.
+
+-----------------------------------------------------------------------------
+
+ 716 Disease      Duration: variable                                 DISEASE
+
+   This spell inflicts an extremely debilitating disease on the target
+   based on how badly the spirit warding has failed.  The disease will cause
+   1 point of damage for every 3 levels of the caster, plus 1 point for every
+   5 points the spirit warding was failed each round.  The disease has a
+   dissipation rate of 1.
+
+-----------------------------------------------------------------------------
+
+ 717 Evil Eye                                                         EVILEYE
+
+   They say the eyes are the window to the soul.  Certainly the target of
+   this spell will believe this to be the case, as the sorcerer summons
+   the power to instill fear to the very root of the target's being.
+   Sometimes the target will run from the room, or freeze, unable to move
+   because of fright.  Other times, if the target is a player, s/he may
+   not stop running from the caster until they reach the safety of town.
+
+   Note:  This spell has an interesting side ability - when coupled with
+   the floating eye spell, the caster will be able to target creatures and
+   players in the room with him or her, or in the room with the sorcerer's
+   floating eye (although the power of the spell diminishes when cast
+   remotely).
+
+-----------------------------------------------------------------------------
+
+ 718 Torment                 Duration: variable                       TORMENT
+
+    This spell will last for as long as the caster is able to concentrate
+    on it.  Each round that it is maintained, the target must make a
+    Spirit warding.  If the target fails the spirit warding, it takes damage
+    in relation to how much it failed by.  However, if it successfully makes
+    its spirit warding, the caster must then make an spirit warding roll, or
+    suffer up to 25% of his/her total health points in damage, but may
+    still be able to maintain the spell.
+
+    Examples of things which might break the caster's concentration would
+    be: movement, being attacked, being stunned by the recoil of this spell,
+    etc.  Sometimes when the caster loses control of the force active in
+    this spell, it will remain sensing that either the caster or the target
+    is near death and hoping one last attack on one or both will finish
+    them off, much to its delight, whatever 'it' is.
+
+    Often times this spell will not end until either the caster or the
+    target is dead.
+
+-----------------------------------------------------------------------------
+
+ 719 Dark Catalyst                                                   DARKCAT
+
+    Targets of this spell will have their magical energy, be it elemental 
+    or spiritual, ripped from them and converted into raw force which will
+    damage them in the form of heat, cold, and/or electricity.  The amount of
+    damage taken is dependent on the target's current amount of magical power
+    and the failure of their spirit warding.  Targets with little magical
+    energy will not be significantly affected by this spell.
+
+    Part of the magical energy drained from the target is transferred
+    directly to the sorcerer - the amount the sorcerer receives is dependent
+    on the amount taken, as well as his/her Mana Transfer skill.
+
+-----------------------------------------------------------------------------
+
+ 720 Implosion                                                      IMPLOSION
+
+    This spell will destroy _all_ the air around the target(s) in a
+    specific area, subjecting them to 'vacuum' injuries.  As the air
+    rushes back into the area (a second later), the target(s) will not
+    only be subjected to the force of the returning air, but as well it
+    is likely light objects will fly at them from the room in which it
+    was cast, as well as adjoining rooms, potentially striking them and
+    doing added damage.  This spell can be truly devastating.
+
+-----------------------------------------------------------------------------
+
+ 725 Ensorcell  		Duration: variable 	            ENSORCELL 
+
+   By using this spell a Sorcerer can add magical enhancements (TD) to armor. 
+
+   Note: This spell will most likely hail the era of self cast. Rejoice 
+   Rejoice! Elementalist will excel at this. 
+
+-----------------------------------------------------------------------------
+
+ 730 Animate Dead        Duration: variable			  ANIMATEDEAD 
+
+   Those who can use this spell will have the ability to animate the dead and 
+   make them do their bidding for a time based upon the skill of the caster 
+   vs the target and how difficult the caster's commands are to follow.
+
+   NOTE: The target (if a player) will be able to prevent or break this spell
+   by closing their group. While a player or creature is animated their decay 
+   timer is paused. 
+
+   Note: Spiritualist will excel at this. Mana share will be a factor. 
+
+-----------------------------------------------------------------------------
+
+ 750 Demonic Summoning      Duration: variable		 	  DEMONSUMMON 
+ 
+   This spell will allow the caster to summon specific, unique demons to 
+   (hopefully) do the caster's bidding. 
+
+   Woe to the caster who loses control of this type of demon. The immediate
+   effects would most likely include something extremely unpleasant.
+
+   Notes:Demons will be at first, elemental and spiritual(there may be more 
+   kinds later). Elemental Demons will have acess to minor/major elemental 
+   circles and the wizard spell list. Spiritual Elemental Demons(such as the 
+   minion of our lord Marlu) will have acess to minor/major spirit circles, 
+   and the cleric list. Elementalist will excel at summoning elemental Demons, 
+   and vice versa.
+
+

@@ -1,0 +1,261 @@
+                            Empath Spell Circle 
+                            -------------------
+
+-----------------------------------------------------------------------------
+
+ 801 Heal 							 HEAL  
+    
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Restores random 10 to [Skills](max 50) of caster's HPs. 
+
+-----------------------------------------------------------------------------
+
+ 802 Limb Repair 						 LIMREP  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of fresh limb wounds. 
+
+-----------------------------------------------------------------------------
+
+ 803 System Repair 						 SYSREP  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of fresh nervous system injuries. 
+
+-----------------------------------------------------------------------------
+ 804 Head Repair 						 HEDREP  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of fresh head and neck injuries.  
+
+-----------------------------------------------------------------------------
+
+ 805 Organ Repair 						 ORGREP  
+     
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of fresh organ injuries. Organ injuries are
+   considered to be the back, the chest, the abdomen, and eyes.  
+
+-----------------------------------------------------------------------------
+
+ 806 Empathic Focus 						 FOCUS  
+
+   Duration
+   15 sec. / level. Selfcast, refreshes 
+
+   Description
+   The caster is able to focus on what they are doing and thus is able to
+   defend themselves better. Gives caster +10 DS. Empathic casters with
+   sufficient knowledge of their base circle gain an additional +5 to DS.  
+
+-----------------------------------------------------------------------------
+
+ 807 Tend Lore 							 TEND  
+   
+   Duration
+   15 sec. / level. Selfcast, no refresh 
+
+   Description
+   Increases the caster's first aid skills to various effect. (Changes to
+   tending and diagnosis will come shortly after the list is implemented)
+
+-----------------------------------------------------------------------------
+
+ 808 Empathy 							 EMPATHY  
+      
+   Duration
+   Caster level + 1 per 3 points of SWC failure with 120 sec. maximum. 
+
+   Description
+   When successfully cast, will stimulate a target to induce a panic
+   reaction. It has been rumored this spell can cause temporary indecision.  
+     
+-----------------------------------------------------------------------------
+
+ 809 Rage							 RAGE  
+     
+   Duration
+   5 sec. / level. Selfcast, no refresh 
+
+   Description
+   The caster remembers past injuries and channels those memories into a
+   sharp, short-lived rage increasing physical AS by +15.  
+
+-----------------------------------------------------------------------------
+
+ 810 Sensations  						 SENSE  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   The caster is able to sense the minds of other adventurers and some
+   monsters in the surrounding areas. This intrusion may be noticed and
+   cause a backlash.  
+
+-----------------------------------------------------------------------------
+
+ 811 Limb Scar Repair  						 LIMSCAR  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of scars on limbs.  
+
+-----------------------------------------------------------------------------
+
+ 812 System Scar Repair  					 SYSSCAR  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of old damage to the nervous system.  
+
+-----------------------------------------------------------------------------
+
+ 813 Head Scar Repair  						 HEADSCAR  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of scars on the head or neck.  
+
+-----------------------------------------------------------------------------
+
+ 814 Organ Scar Repair  					 ORGSCAR  
+      
+   Duration
+   Immediate, selfcast 
+
+   Description
+   Reduces the severity of scars on organs (eyes, abdomen, back, and chest).
+
+-----------------------------------------------------------------------------
+ 815 Adrenal Surge  						 SURGE  
+   
+   Duration
+   Immediate 
+
+   Description
+   The caster causes the target to experience a short surge of adrenalin,
+   increasing the targets strength for a moment, causing them leap to their
+   feet. It has been noted by some adventurers that this increased strength
+   can be so exceptional that webs have been broken.  
+
+-----------------------------------------------------------------------------
+
+ 816 Cry for Help  						 CRY  
+   
+   Duration
+   Immediate 
+
+   Description
+   The caster enables the target to see through their eyes for one moment.
+   Sufficiently trained adventurers have been known to pass additional
+   information concerning the health as well.  
+
+-----------------------------------------------------------------------------
+
+ 817 Sensory Overload                                            SENOVR  
+      
+   Duration
+   Immediate 
+
+   Description
+   Successful casting of this spell will cause the targets senses to be
+   overloaded resulting in range of possible effects. The target may get sick,
+   be paralyzed with inaction have difficulty striking or defending, and may
+   suffer physical damage of the nervous system.  
+       
+-----------------------------------------------------------------------------
+
+ 818 Empathic Link
+
+   (planned)
+
+-----------------------------------------------------------------------------
+
+ 819 Strength of Will
+
+   (planned)
+
+-----------------------------------------------------------------------------
+
+ 820 Relaxation                                                  RELAX
+
+   Duration
+   30 sec. / level, selfcast 
+
+   Description
+   Allows the caster to relax in safe areas. While relaxing, they can
+   consider their experiences in the field better. Because the trance
+   requires a deep inner sight, this spell will only allow effective trances
+   at least an hour apart. The trance can be broken by many acts including
+   speaking.     
+
+-----------------------------------------------------------------------------
+ 825 Trolls Blood						 TROBLD
+
+   Duration
+   15 sec. / level, selfcast 
+
+   Description
+   This spell imbues the caster's blood with the regenerative powers of 
+   trolls. Subconscious thought directs these recuperative powers to damaged 
+   areas. As long as the caster remains mostly inactive, the caster's wounds
+   will reduce and scars can fade at the cost of 1 + the cost to heal
+   similar minor damage. 
+
+-----------------------------------------------------------------------------
+
+ 830 Intensity                                                  INTENSITY
+
+   Duration
+   15 sec. / level, selfcast 
+
+   Description
+   This spell allows the caster to shift the emphasis of their intentions
+   between attacking and defending. Base 30 points shiftable between AS
+   and physical DS dependent on stance. Empaths gain additional benefits at
+   1 point per 2 spells known over 30 in their base circle.
+
+     Stance      AS    DS
+
+     Offensive  +100% -100% 
+     Advance    +50% -50% 
+     Forward    +20% -20% 
+     Neutral    +0% +0% 
+     Guarded    -50% +50% 
+     Defensive  -100% +100% 
+
+-----------------------------------------------------------------------------
+
+ 850 Empathic Dispell                                            EMPDIS
+
+   Duration
+   Immediate 
+
+   Description
+   Allows the caster to break the target's connection to the spirit realm,
+   causing spiritually related spells to fail. Upon successful cast, 2 or
+   more spells may be dispelled.  
+
+

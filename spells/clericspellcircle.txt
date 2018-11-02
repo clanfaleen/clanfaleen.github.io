@@ -1,0 +1,360 @@
+Posted on June 8, 1998  - New Cleric Circle Revisions
+
+The spells and their descriptions have been listed for your information.  
+All spells have been listed for completeness and do not imply that all 
+have been modified.  
+
+Group effect spells require the cleric to be present or the effects will 
+dissipate.  Whether or not the cleric is required to be the party leader 
+is still being determined.
+
+All appropriate spells have a maximum cap of 120 minutes.  I may adjust 
+the cap at my discretion depending on system resource limitations.
+
+All appropriate spells are refreshable but do not accumulate.
+
+Spell availability: it'll be ready, when it's ready.
+
+  GM Ophion, cleric guru 
+
+
+
+       spell: 0301
+        name: prayer of holding
+    mnemonic: holding
+
+ description: The Prayer of Holding spell allows a cleric to interfere with
+              the evil controlling principle of an undead creature for a
+              time. This can render them in a "sleep like" state (although
+              they do not fall down) for the period of its duration.
+
+              The duration of the hold is based on the amount of energy a 
+              cleric can gather and the power of the creature target.
+
+              Mana costs is proportionate to half the target level
+              (max 20).
+
+
+
+       spell: 0302
+        name: repel undead
+    mnemonic: replund
+
+ description: The Repel Undead spell is the mainstay of the cleric's
+              weapons against the undead. This spell allows the cleric
+              to dispatch an undead being.
+
+              A spirit warding is required. If successful, the creature
+              attempts to run away. If this is not possible the creature
+              may shake the spell or may simply disintegrate. If the
+              undead fails the spirit warding badly enough, it may
+              disintegrate anyway.
+
+              Mana costs is proportionate to half the target level
+              (minimum 2/maximum 25).
+
+
+       spell: 0303
+        name: prayer of warding
+    mnemonic: warding
+
+ description: This spell increases the moral fortitude of the target,
+              allowing for greater resistance to attacks of various forms.
+
+              The defensive benefit is +5DS plus +1DS per cleric spells
+              known beyond 303 (Max +20DS).  Mana costs are proportionate
+              to benefits (3 base mana +1/bonus).
+
+
+
+       spell: 0304
+        name: holy blade
+    mnemonic: holyblade
+
+ description: Undead creatures are immune to many forms of physical attack.
+              Normal weapons will not harm an undead creature other than
+              to make ugly, but harmless, gashes.  A cleric can use the 
+              use the Holy Blade spell to bless the weapon and imbue it
+              with the ability to harm the undead.
+
+              This spell works on most weapons, however imperfections can
+              cause a blade to be rendered unstable by this blessing.  A
+              cursed weapon cannot be blessed and often the resulting clash
+              of diametrically opposed energies may prove catastrophic.  A
+              learned cleric's blessing may offer holy water crit ability.
+              Also, certain magical weapons may be blessed if the casting
+              cleric has great knowledge of their base spell list.
+
+
+       spell: 0305
+        name: preservation
+    mnemonic: preserve
+
+ description: This spell will prevent the soul of a fallen comrade from
+              departing for the duration of the spell. This is useful when
+              preparing for a resurrection or finding a higher level cleric
+              capable of helping.
+
+
+       spell: 0306
+        name: holy bolt
+    mnemonic: holybolt
+
+ description: In the service of their gods, a cleric is able to conjure
+              a stream of purified holy water and direct it against a
+              a target.  Living or dead, the target amount of damage is
+              dependant upon the clerics aimed spell ability vs the
+              target's defenses.  However, undeads are known to have an
+              extra susceptibility to the holy water's effects.
+
+
+       spell: 0307
+        name: benediction
+    mnemonic: benedict
+
+ description: The favors of the gods are often sought and are often
+              granted thru their faithful servants.  Benediction permits
+              the cleric to garner his/her god's favor and impart such
+              benefits to those around them.  Wherewith goes the cleric,
+              so doth the favors of the gods.
+
+              The cleric may impart +5AS and +5DS to all those joined.  The
+              learned cleric may succour more favors to gain +1AS and +1DS 
+              per known cleric spells beyond 307 (Max +15AS/DS) at a
+              proportionate increase in mana costs (7 base mana +1/bonus).
+
+       spell: 0308
+        name: well of life
+    mnemonic: welloflife
+
+ description: Sacrifice is a well known trait of clerics.  By this spell,
+              the cleric can channel his/her spiritual force to replenish
+              another character.  The amount of transfer is based on the
+              caster's mana transfer skill and other subtle factors.  The
+              spell will not permit the caster transfer such that he/she 
+              dies; meaning that the cleric will always have at least 1 
+              spirit point left.  This is a very taxing and arduous 
+              endeavour for the cleric and some recuperation will be
+              required after a successful transfer.
+
+
+       spell: 0309
+        name: neutralize curse
+    mnemonic: neutcurse
+ description: By gathering the favor of the gods, a cleric may nullify a
+              curse and place it in abeyance for a short period of time
+              (10sec/level).  Once the spell's duration wanes, the curse
+              will return.
+
+
+       spell: 0310
+        name: warding sphere
+    mnemonic: wardsphere
+
+ description: Mastery of this spell enables the learned cleric to not only 
+              extend the benefits of the warding spell to those nearby but
+              also increase its effectiveness.
+ 
+              The spell offers +10DS and +1DS per cleric spell known beyond
+              310 (Max +40DS).  Mana costs are proportionate to benefits
+              (10 base mana +1/bonus).
+
+
+       spell: 0311
+        name: blinding
+    mnemonic: blinding
+ 
+ description: This spell causes the image of the cleric's deity to be
+              superimposed over him/herself. This vision will blind the
+              target causing it to be stunned for the duration of the
+              effect.
+
+
+       spell: 0312
+        name: raisedead
+    mnemonic: raisedead
+
+ description: Mastery of this spell allows a cleric to actually appeal to
+              his/or her deity to raise a fallen comrade from the dead.
+              This spell is very taxing on the caster and success is not
+              assured. The target must have a soul (undeparted) for this
+              spell to work and the body must be able to sustain life which
+              means the services of an empath may be needed.
+
+              If successfully raised, the formerly dead character will have
+              but 1 spirit point and be in whatever condition he/she was in
+              prior to being raised otherwise. The character will _not_
+              suffer any stat loss due to this death, so resurrection by a
+              cleric is far superior to that of one of the gods.
+
+              The caster will lose 75% of the target's _maximum_ spirit
+              points. This is not to be confused with actual spirit points;
+              this means that if the cleric has less than 75% of the dead
+              character's spirit points, the resurrection attempt will kill
+              him/her. For example, if the dead character has 10 spirit
+              points, a cleric would need 8 actual spirit points to
+              complete the resurrection (and survive).
+
+              Note: The dead player's soul must exist for this spell to be
+              effective
+
+              Expect significant round times for this activity.
+
+
+       spell: 0313
+        name: prayer
+    mnemonic: prayer
+
+ description: By petitioning the gods through prayer and reverent
+              communion, the cleric gains a modicum of protection to ward
+              off spells and a bit of 'luck' to deal with maneuver attacks.
+              Duration is 30sec/level.
+
+
+       spell: 0314
+        name: interdiction
+    mnemonic: interdict
+
+ description: Clerics are the masters of channeling mana.  By the grace
+              of their gods, the cleric may sanction the target's ability
+              to harness mana thereby depriving them of their magic for
+              the duration of the spell.  The duration is 5sec per number
+              of cleric spells known.
+ 
+              The target will lose mana in proportion to the cleric's 
+              effectiveness (base spell knowledge) until the target runs
+              out of mana.  And will remain thus for the duration of the
+              spell.
+
+
+       spell: 0315
+        name: remove curse
+    mnemonic: removecrs
+
+ description: This spell will completely dispel a curse from an item. This
+              spell has limited abilities; sometimes objects contain curses
+              so set into the fabric of the object that it cannot be
+              removed. Sometimes removal of a curse will also destroy the
+              other powers of the object but occasionally these two
+              elements are independent and this may leave behind a useful
+              item. There is always a chance this spell will fail in
+              unpredictable ways.
+
+
+       spell: 0316
+        name: atonement
+    mnemonic: atonement
+
+ description: By their will and dogma, the cleric can invoke this
+              spell to consign their target with guilt and remorse as
+              to overwhelm their sensibilities.  Thus encumbered, the
+              target will hesitate in their actions from doubt, or retard
+              their attacks from endless deliberations.
+
+
+       spell: 0317
+        name: zealot
+    mnemonic: zealot
+
+ description: To those who follow the true path.. there can be only
+              one Way.  Any other choice is heresy.  Thus are borne
+              the zealots whose minds and actions are solely dedicated to
+              enforce 'righteousness' of their enlightenment upon the
+              world.  For their singlemindedness, these clerics are
+              imbued with great strength and conviction.  Life is a mere
+              trinket to idly toss aside in the service of their divine
+              masters.
+
+
+       spell: 0318
+        name: life restoration
+    mnemonic: lifrestore
+
+ description: This is a higher version of 312, but draws more favor of
+              the deity to soften the impact on the caster and the one
+              being raised. The caster loses 50% of their maximum spirit
+              points and the target is restored to 10% of their maximum
+              spirit points and health points.
+
+
+       spell: 0319
+        name: divine wrath
+    mnemonic: divinewrth
+
+ description: Truly is the faithful servant rewarded by their diety's
+              attention. By invoking their god's name, the cleric may
+              summon the fury of their divine master to smite down the
+              undeads before them.
+
+
+       spell: 0320
+        name: exorcism
+    mnemonic: exorcism
+
+ description: TBA
+
+
+       spell: 0325
+        name: sanctify
+    mnemonic: sanctify
+
+ description: TBA
+
+
+       spell: 0330
+        name: prayer of communion
+    mnemonic: commune
+ 
+ description: Upon reaching this level in the cleric spell circle, the
+              cleric is able to cast a commune spell in order to contact
+              his/her deity. Casting this spell requests the presence of
+              the deity who may or may not respond. If the deity does not
+              respond, most of the mana points consumed by this spell are
+              returned to the caster within a few minutes.
+
+              If the deity does respond, you will know it! The presence of
+              a deity is not to be taken lightly so use all due respect
+              or risk losing the favor of the gods of Elanthia. The exact
+              deity which responds is never quite assured regardless of
+              which deity the cleric worships and serves.
+
+              When a deity does respond, your character may ask of
+              him/her a few questions. The number of questions you may
+              ask and the complexity are limited. A deity is known to
+              respond in an ethereal manner many times and the best
+              response you can usually expect is a prepositional phrase.
+              You can be assured, however, the answer will be the truth
+              if there is one.
+ 
+              As an example of how to be cautious with your questions:
+
+                 A cleric, hopelessly lost in a maze asks, "How do I
+                 get out of this maze, lord?"
+
+                 The deity responds, "By following the correct
+                 path."
+
+              You are cautioned to not attempt to pin down or outwit a
+              deity who is being ambiguous since there is usually a purpose
+              in it. However you can expect that at times a deity will give
+              very valuable information especially when you are serving
+              him/her in your quest.
+
+
+       spell: 0350
+        name: ressurection
+    mnemonic: ressurect
+
+ description: The highest level spell for a cleric is the ultimate
+              resurrection spell. It will raise a character from the dead
+              with a loss of only 25% of the target's spirit points by the
+              casting cleric. The deity supplies most of the work. In fact
+              the target will be restored to 50% of their spirit and
+              health points as well.
+
+              This spell is also known to do some amount of physical
+              healing (in some cases complete healing), making it one of
+              the most powerful effects a cleric can muster.
+
+
+

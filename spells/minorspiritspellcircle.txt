@@ -1,0 +1,303 @@
+                           Minor Spirit Spell Circle
+                           -------------------------
+
+
+This spell circle is completely implemented.
+
+-----------------------------------------------------------------------
+
+1 Spirit Protection I (101)   Duration: 1 min/lvl                  SPROTECT1
+
+   -10 against all elemental attack spells.
+   +10 spirit warding against spell attacks.
+
+   Notes:
+
+   Affords some minor protection against spell attacks.  Since the 
+   duration is cumulative, this can be useful when going up against a 
+   spell-casting creature by building up the duration beforehand.
+
+----------------------------------------------------------------------
+
+2 Spirit Barrier  (102)      Duration: 1 min/lvl                    SBARRIER
+
+   Creates a 10' x 10' x 10' wall of dense churning air around target.
+   -50 to all attacks that must move through it (either in or out).
+   Elemental attacks are affected because they consist of a physical attack.
+
+   Notes:
+
+   The affected character/creature has a bonus to defense but a penalty 
+   when attacking. This can be useful if you cast it on a creature you 
+   intend not to fight but have to stick around (or get around) for some 
+   reason, or if you want to use nonelemental attacks.
+
+-----------------------------------------------------------------------
+
+3 Spirit Defense    (103)    Duration: 2 min/lvl  (not cumulative)   SDEFENSE
+
+   Creates a bright aura about the target, making him/her appear more
+   powerful, and bestows a +10 to his/her DS.
+
+    Notes:
+
+   This spell imparts no penalty for attacking as does Spirit Barrier so it
+   is a good defensive bonus.  At higher levels it will last quite awhile,
+   every little bit helps.
+
+-----------------------------------------------------------------------
+
+4 Disease Resist  (104)  Duration: 1 min/lvl                        DISRESIST
+
+   Target gets an additional spirit warding against any disease if the first
+   one fails.
+
+   Notes:
+
+   The time the spell lasts is cumulative, multiple casts when you know
+   you are going to be subjected to disease would be a good idea.
+
+-----------------------------------------------------------------------
+
+5 Poison Resist      (105)   Duration: 1 min/lvl                    POIRESIST
+
+   Target gets an additional spirit warding against any poison if the first
+   one fails.
+
+   Notes:
+
+   Some chests have poison needle traps.  This can be helpful!
+
+-----------------------------------------------------------------------
+
+6 Spirit Fog       (106)        Duration: 1 min/lvl                 SPIRITFOG
+
+   Causes a room to be flooded with fog (works indoors or outdoors).  This
+   imparts a +30 to everyone's/thing's strength and increases the ease with
+   which you can hide.
+
+   Notes:
+
+   Like Spirit Barrier, this is useful in specific instances where you want
+   to lower your risk at the expense of your physical attack odds.  Unlike
+   Spirit Barrier, this affects everyone in the room.
+
+-----------------------------------------------------------------------
+
+ 7 Spirit Protection II (107)   Duration: 30 sec/lvl                SPROTECT2
+
+   -25 against all elemental attack spells. 
+   +25 spirit warding against spell attacks.
+
+   Notes:
+
+   This spell is a more powerful version of Spirit Protection I; however, its
+   duration is shorter.
+
+-----------------------------------------------------------------------
+
+8 Stun Relief      (108)                                            STUNRELIF
+
+   Will un-stun the target.
+
+
+
+   Notes:
+
+   Entirely effective, but at 8 mana points is expensive.  In life or
+   death situations this could be vital, however.
+
+-----------------------------------------------------------------------
+
+9 Dispel Invisibility  (109)                                         DISINVIS
+
+   Will dispel invisibility on any character/creature on the room which 
+   fails a spirit warding.
+
+   Notes:
+
+   Does not work on invisible objects (which are rare).
+
+-----------------------------------------------------------------------
+
+10 Unbalance        (110)                                           UNBALANCE
+
+   Calls upon the spiritual forces to impact the target if their spirit
+   warding fails.  The target would then suffer an injury from the
+   unbalancing injury table.  The severity is determined by how badly the
+   spirit warding failed.
+
+   Notes:
+
+   Although this acts like an elemental attack spell, it is not subject
+   to physical laws and is not aimed.  A successful attack is a guaranteed
+   injury.  These injuries tend to cause a foe to fall (and then you
+   can follow up with an attack), however it can do significant damage
+   of its own.
+
+-----------------------------------------------------------------------
+
+11 Fire Spirit      (111)                                          FIRESPIRIT
+
+   Will fire a ball of bright light high into the sky which can be seen
+   by anyone standing outside.  Do this only when standing outside, or
+   it will rebound on you!
+
+   If cast at a target it acts as a Major Fire attack.
+
+
+   Notes:
+
+   This signaling device doubles as a fair weapon.
+
+-----------------------------------------------------------------------
+
+12 Water Walking    (112)     Duration: 1 min/lvl                   WATERWALK
+
+   Allows the caster to walk on water as long as the spell lasts.  This
+   only works on smooth water and is ineffective on large open lakes, a
+   rapid river or an ocean, however it is good for submerged areas frequently
+   found in deep dungeons.
+
+   Notes:
+
+   Don't get caught out there!
+
+-----------------------------------------------------------------------
+
+13 Undisease        (113)                                           UNDISEASE
+
+   Will remove 1 disease from a given target.
+
+   Notes:
+
+   Effective on any disease of any strength.
+
+-----------------------------------------------------------------------
+
+14 Unpoison         (114)                                            UNPOISON
+
+   Will remove 1 poison from a given target.
+
+   Notes:
+
+   Effective on any poison of any strength.
+
+-----------------------------------------------------------------------
+
+15 Spirit Burst  (115)     Duration: 5 sec/lvl                      SPIRBURST
+
+   Causes the spiritual forces to grant the caster the ability to say
+   just the correct word that will stun a given sentient being into
+   immobility for up to 5 sec/lvl of caster depending on how well it works. 
+
+   Notes:
+
+   A stunned foe is pretty helpless.
+
+-----------------------------------------------------------------------
+
+16 Locate Person    (116)                                              LOCATE
+
+   Can be cast on any character in the game and will give you a brief vision
+   of where they are.
+
+   Notes:
+
+   If you know your geography, this should help you find someone pretty
+   quickly.  This spell sometimes fails to work in certain locations, due to
+   magical instabilities in that area.
+
+-----------------------------------------------------------------------
+
+17 Spirit Strike    (117)     Duration 10 sec                       SPIRSTRIK
+
+   Calls upon the spiritual forces to provide guidance for a brief
+   period of time.  This imparts a +75 bonus to the next physical (or  
+   elemental attack).
+
+   Notes:
+
+   Cast this spell before an important attack.  In some cases you can sneak
+   in two attacks before it wears off.
+
+-----------------------------------------------------------------------
+
+18 Web              (118)  Duration 5 mins.                               WEB
+
+   Taps the spiritual forces, allowing the caster to have ESP powers.
+
+    Notes:
+
+   This is the same spell as the one found in crystal amulets.
+   Others under the influence of this spell can recieve messages.  Use
+   THINK <message> to project your thoughts into the ether.
+
+
+-----------------------------------------------------------------------
+
+19 Herb Production  (119)                                            HERBPROD
+
+   Causes a random herb to grow instantly on the ground (works only
+   outdoors).  There is no way to predict which herb will grow, or how
+   useful it will be.  Sometimes a useless herb will result.
+
+   Notes:
+
+   This one is a grab-bag, sometimes you might get lucky in a pinch!
+
+-----------------------------------------------------------------------
+
+20 Lesser Shroud    (120)     Duration: 30 sec/lvl                  LESSHROUD
+
+   Similar to Spirit Defense except caster appears to be a minor god (an
+   illusion).  This bestows a +25 to DS.
+
+   Notes:
+
+   Good defensive spell.  Duration is cumulative.
+
+-----------------------------------------------------------------------
+
+25 Call Lightning    (125)                                          CALLLGHTN
+
+   Caster causes multiple lightning bolts to strike a target within the room.
+   This spell only works outdoors and requires about 20 seconds for the storm
+   cloud to form before the attack will take place.
+
+   Note:
+
+   The storm cloud will strike the target with a random amount of
+   lightning bolts, usually 3 or 4.  Shocking!
+
+-----------------------------------------------------------------------
+
+30 Spirit Guide    (130)                                            SPIRGUIDE
+
+   Causes a caster and his or her group to return home (Wehnimer's Landing).
+   This is a powerful teleport spell and is useful for getting a party out of
+   danger quickly.
+
+
+
+  Notes:
+
+   Everyone who is joined to the caster will teleport with him/her.  You
+   can use HOLD HANDS WITH <character> to hold onto someone who is otherwise
+   incapacitated.  Great for evacs!
+
+-----------------------------------------------------------------------
+
+50 Wall of Force    (150)     Duration: 10 sec/lvl                  WALLFORCE
+
+   Creates a wall of force that strongly resists attacks.  The wall will
+   follow the caster and position itself to fend off attacks while letting
+   outgoing attacks pass without penalty.  This spell bestows a +100 to
+   the caster's DS.
+
+   Note:
+
+   One of the best protection spells against physical attacks!  This spell
+   is a must when going up against the BIG monsters.
+
+

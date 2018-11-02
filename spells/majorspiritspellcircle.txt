@@ -1,0 +1,289 @@
+                         Major Spirit Spell Circle
+                         -------------------------
+
+Important Policy Note
+
+
+
+Implementation
+
+As of 9/11/95, all of the spells in this circle are implemented except for
+208, 217, 218, 220, and 250.
+
+----------------------------------------------------------------------------
+
+201  Calm               Duration: 1 minute per level                  CALM
+
+   Under the influence of this spell, the target person or creature is
+   soothed and calmed, inhibiting them from engaging in aggressive behavior.
+   Actions involving combat or the casting of spells are not possible while
+   in the calmed state.
+
+   NOTE:  The target of this spell receives a spirit warding to avoid the
+   effect.
+
+----------------------------------------------------------------------------
+
+202  Spirit Shield      Duration: 1 Minute per level                SSHIELD
+
+   The caster uses his or her Spiritual powers to influence the surrounding
+   Spirits to provide additional physical protection to the target of
+   the spell.
+
+   NOTE:  The spell provides an additional +10 to Physical DS.
+
+----------------------------------------------------------------------------
+
+203  Manna                                                            MANNA
+
+   Through the use of this spell, the caster calls into being special food
+   with potent qualities.  Persons who partake of the magically created
+   food, and then take time to rest and relax will experience accelerated
+   healing and accelerated mana point recovery.
+
+   NOTE:  Food created by this spell loses its potency quickly unless it
+   is specially preserved.  As the food deteriorates, it may actually
+   become poisonous.  The caster creates one mouthful of the special food
+   for each level of experience.
+
+----------------------------------------------------------------------------
+
+204  Unpresence         Duration:  1 minute per level            UNPRESENCE
+
+   Through this spell, spiritual forces are invoked to protect the target of
+   the spell from many magical means of location.  While persons with this
+   spell in effect on them will not find it any easier to initially conceal
+   themselves in a hiding place, they will find that it improves their
+   ability to remain hidden when others search for them.
+
+----------------------------------------------------------------------------
+
+205  Light              Duration: 1 minute per level                  LIGHT
+
+   The spiritual forces are used to invoke the Spirits of Light, influencing
+   them to provide greater illumination in the immediate area where the spell
+   is cast.  The additional illumination may make possible actions that could
+   not be performed in darkness, and may enhance the combat ability of
+   everyone in the illuminated area.  The sudden illumination of an otherwise
+   dark area may reveal hidden persons or creatures.
+
+----------------------------------------------------------------------------
+
+206  Darkness           Duration: 1 minute per level               DARKNESS
+
+   Being similar to the Light spell, this spell invokes the Spirits of
+   Shadow and Darkness to dim the illumination in the immediate area where
+   the spell is cast.  Combat conducted in a darkened area is done so with
+   reduced abilities.  Some actions that require good illumination may not
+   be possible in a darkened area.  People may find it easier to hide and
+   remain hidden in darkened areas.
+
+----------------------------------------------------------------------------
+
+207  Purify Air        Duration: 1 minute per level               PURIFYAIR
+
+   This potent manipulation of spiritual forces that lie within each of us
+   bolsters the ability of the target person to withstand the ravages of a
+   hostile environment.  The effect gives enhanced warding against gaseous
+   poisons, in some circumstances allows the person to actually breathe
+   underwater, and according to some reports has allowed persons to survive
+   in total vacuum.
+
+----------------------------------------------------------------------------
+
+208  Living Spell                                                 LIVESPELL
+
+   This spell enables the caster to transfer a prepared spell from another
+   person.  Transfer of the spell is one way only, from the target to the
+   caster.  The target person will lose mana points as if they had cast
+   the spell being transferred.  The caster who receives the spell will also
+   have to expend mana points when casting the spell that has been
+   transferred.
+
+   NOTE:  The caster will meet some resistance when attempting to transfer
+   a spell that they do not actually know.  The amount of resistance met
+   will vary in difficulty depending on whether the spell is from the
+   caster's own circle, a major or minor circle available to the caster, or 
+   some other circle not available to the caster.  Both the caster and target
+   risk suffering damage if the transfer of a spell fails.
+----------------------------------------------------------------------------
+
+209  Untrammel                                                    UNTRAMMEL
+
+   By channeling his or her will, the caster is able to use this spell to
+   dissolve the webs cast by both natural and magical spiders of all sizes.
+
+----------------------------------------------------------------------------
+
+210  Silence            Duration: 5 seconds per level               SILENCE
+
+   Through the spiritual forces, the caster is able to influence the
+   Spirits of Sound to place a pall of silence over the target of this
+   spell.  The target person or creature will be unable to speak, sing,
+   or prepare or cast a spell.
+
+   NOTE:  The target of the spell receives a Spirit warding to avoid the
+   effects of the spell.
+
+----------------------------------------------------------------------------
+
+211  Bravery            Duration: 1 minute per level                BRAVERY
+
+   This spell enables the caster to draw upon the surrounding Lesser
+   Spirits for additional courage and confidence in battle.  The caster's
+   mental and physical fortitude is bolstered making them more effective
+   in combat as well as strengthening their will against fearsome foes.
+
+   NOTE:  Because of the unique and personal nature of this spell, it
+   cannot be cast on others.  The caster realizes +15 to their Physical AS,
+   and is afforded some protection against certain types of fear.
+
+----------------------------------------------------------------------------
+
+212  Interference       Duration: 3 seconds per level             INTERFERE
+
+   The caster of this spell is able to use the spiritual forces to exert
+   influence over the Lesser Spirits in the immediate area to interfere with
+   the actions of the target person or creature.  This interference results
+   in diminished combat ability.
+
+   NOTE:  The target of the spell receives a Spirit warding and if that roll
+   is failed, suffers a -15 penalty to Physical AS.
+
+----------------------------------------------------------------------------
+
+213  Minor Sanctuary   Duration: 5 minutes plus 10 sec/level      MINRSANCT
+
+   By mustering the power of the surrounding Lesser Spirits, the caster
+   is able to employ this spell to create an area that is relatively safe
+   from danger.  This increased security will allow both the Cleric and
+   Empath to practice their profession in greater security.  While this
+   spell is in effect, most creatures will avoid entering the area of the
+   spell.  Persons or creatures that are in the area will not be able to
+   hide from or steal from others.
+
+----------------------------------------------------------------------------
+
+214  Bind               Duration: 5 sec per level                   BINDING
+
+   The caster uses this spell to call upon the surrounding Lesser Spirits
+   to hold the target person or creature immobile.
+
+   NOTE:  The target of this spell receives a Spirit warding to avoid the
+   effects.
+
+----------------------------------------------------------------------------
+
+215  Heroism            Duration: 1 minute per level                HEROISM
+
+   The caster of this spell is able to draw additional fortitude from the
+   surrounding Lesser Spirits.  This serves to bolster the caster's courage
+   and confidence, thus improving the caster's combat effectiveness.  The
+   spell helps to bring the caster's mind and body into focus, allowing
+   the caster to recover from both physical and mental fatigue at a faster
+   rate.
+
+   NOTE:  The unique and personal nature of this spell makes it impossible
+   to be cast on another person or creature; the magic is effective on the
+   caster only.  The caster will realize a +25 to Physical AS and increased
+   health point and mana point recovery.
+
+----------------------------------------------------------------------------
+
+216  Frenzy             Duration: 5 seconds per level                FRENZY
+
+   The caster employs this spell to drive the target person or creature
+   into an intense state of combat frenzy.  The target of the spell is
+   influenced in a manner such that they will take no special action to
+   defend themselves in combat.  Instead, the target creature or person will
+   focus all of their available skill in a frantic attack.
+
+   NOTE:  The target of this spell receives a spirit warding to avoid the
+   effect of the spell.  Failure of that roll forces the target to take a
+   fully offensive stance, where it will remain for the duration of the
+   spell.
+
+----------------------------------------------------------------------------
+
+217  Herb Mastery                                                  HERBMAST
+
+   Wild herbs, fruits, and other plants can be found through the land of
+   Elanthia.  Many of the naturally occurring plants have special properties
+   when properly employed but are often useless, and in some cases actually
+   dangerous, when employed by the unskilled.  This spell allows the caster
+   to prepare many of the commonly found flora to bring out their natural
+   efficacy.
+
+----------------------------------------------------------------------------
+
+218  Spirit Servant   Duration: 1 minute per level                  SERVANT
+
+   Through the use of this powerful spell, the caster is able to manipulate
+   the spiritual forces to bind a Lesser Spirit to their service for a
+   short time.  The spirit bound in this manner takes on a corporeal
+   existence by drawing on the very life force of the caster.  In this way,
+   the bound spirit is able to manipulate small physical items and perform
+   other simple tasks at the caster's behest.
+
+   NOTE:  The caster of this spell does not actually lose Spirit Points at
+   the time that this spell is cast.  The caster, in fact, will see no
+   reduction of points at all if the Spirit Servant is released from service
+   prior to the expiration of the spell.  If the spell duration expires
+   before the caster releases the spirit from service, or the spirit meets
+   with some other untimely end, then the caster will suffer a loss of four
+   spirit points.
+
+----------------------------------------------------------------------------
+
+219  Spell Shield       Duration: 1 minute per level               SPSHIELD
+
+   Through the use of this spell, the caster is able to call upon the
+   Spirits of Power to form a powerful barrier against magical attacks.
+
+   NOTE:  This spell grants a +50 to spirit wardings as well as a -50
+   to Elemental Attacks.
+----------------------------------------------------------------------------
+
+220  Major Sanctuary    Duration: 1 minute per level                MJSANCT
+
+   This extremely powerful spell allows the caster to call into being a
+   magical portal leading to a special place of safety.  The caster is
+   able to call upon their special relationship with their patron Greater
+   Spirit or Lord of Liabo to provide them with a place of refuge in which
+   they may rest and practice their arts and skills in relative safety.
+
+----------------------------------------------------------------------------
+
+225  Transference                                                  TRANSFER
+
+   The caster of this spell is able to use the spiritual forces to
+   transfer themselves to the physical location of the target individual.
+   Transference of this type is effective on the caster only, and some
+   magical or natural occurrences may prevent this spell from operating
+   properly.
+
+----------------------------------------------------------------------------
+
+230  Spirit Hunter     Duration: 12 rounds                         SPHUNTER
+
+   Through the use of spiritual forces and this spell, the caster is able to
+   call forth a potent Lesser Spirit that will attach itself to the target
+   of the spell and slowly drain the very life essence from that person
+   or creature.  The Silent Slayer will plague the individual or creature
+   for the duration of the spell, or until death occurs, whichever comes
+   first.
+
+   NOTE:  The target of this spell receives a Spirit warding to avoid the
+   effect of the spell.  In some cases, after a particularly high warding
+   result, the Silent Slayer will actually turn upon the caster.  When the
+   Silent Slayer attaches itself to a person or a creature, it drains the
+   spirit points from that person or creature at the rate of 1 points
+   per 15-second round for a maximum of 12 rounds, or until death occurs.
+
+----------------------------------------------------------------------------
+
+250
+
+   The nature of this spell is unknown to the world at this time.
+
+
