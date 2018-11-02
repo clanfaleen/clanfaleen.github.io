@@ -1,0 +1,152 @@
+                       HERB GUIDE
+
+
+Injury                                              Herb 
+
+Blood loss                                                  
+
+     For Lesser Amounts of Loss                Acantha Leaf 
+     Returns 30-50 Blood                       Coth Flower/Yaba Fruit 
+
+Limb injury 
+
+     Minor bruises                             Ambrominas Leaf 
+     Fractured and bleeding                    Ephlox Moss 
+     Severed                                   Ephlox Moss 
+
+Limb scar 
+
+     Battle scar                               Cactacae Spine 
+     Mangled                                   Calamia Fruit 
+     Missing                                   *Sovyn Clove 
+
+Head injury 
+
+     Minor bruises about the head              Rose-marrow Potion 
+     Lacerations and a mild concussion         Aloeas Stem 
+     Bleeding from the ears                    Aloeas Stem 
+
+Head/Neck scars 
+
+     Scar across the face                      Haphip Root 
+     Facial scars/Old neck wound               Brostheras Potion 
+     Terrible mutilation/Terrible scars        Brostheras Potion 
+
+Body injury 
+
+     Minor bruises and cuts                    Basal Moss 
+     Deep lacerations                          Pothinir Grass 
+     Gashes and serious bleeding               Pothinir Grass 
+
+Body scars 
+
+     Old battle scar                           Talneo Potion 
+     Painful looking scar                      Wingstem Potion 
+     Terrible permanent mutilation             Wingstem Potion 
+
+Nervous system injury 
+
+     Twitching                                 Wolifrew Lichen 
+     Sporadic convulsions                      Bolmara Potion 
+     Uncontrollable convulsions                Bolmara Potion 
+
+Nervous system scars 
+
+     Slurred speech                            Torban Leaf 
+     Constant spasms                           Woth Flower 
+     Lack of Muscle Control                    Woth Flower 
+
+Eye injury 
+
+     Irritation                                Basal Moss 
+     Swollen                                   Pothinir Grass 
+     Blinded                                   Pothinir Grass 
+
+Eye scars 
+
+     Black and blue                            Talneo Potion 
+     Bruises and swelling                      Wingstem Potion 
+     Blinded                                   Bur-clover Potion 
+
+* Using an herb to heal an injury or scar reduces it to the next level
+of injury/scar, except with the Sovyn clove, it restores a missing 
+limb without leaving it mangled or scarred. 
+
+  
+
+Wehnimers Herb                             Icemule Trace     
+
+     Acantha leaf                     Iceberry tart             
+     Wolifrew lichen                  Leaftoe's lichen tart   
+     Bolmara potion                   Snowflake elixir   
+     Torban leaf                      Ma Leaftoe's special tart 
+     Woth flower                      Flower-shaped tart 
+     Ambrominus leaf                  Dabbings Family special tart 
+     Ephlox moss                      Some frog's bone porridge 
+     Cactacae spine                   Some elk fat gel 
+     Calamia fruit                    Some walrus blubber 
+     Rose-marrow potion               Elk horn potion 
+     Aloeas stem                      Ram's bladder 
+     Haphip root                      Sparrowhawk pie 
+     Brotheras potion                 Polar bear fat soup 
+     Basal moss                       Tundra grass 
+     Pothinir grass                   Musk ox tart 
+     Talneo potion                    Rock lizard potion 
+     Wingstem potion                  Earthworm potion 
+     Bur-clover potion                Starfish potion 
+     Soyvn clove                      Ptarmagin feathers 
+     Yab fruit or Cothiner Flower     N/A 
+
+Wehnimers Herb                             Teras isle Ale** 
+
+     Acantha leaf                     Olak's Ol'Style Ale 
+     Wolifrew lichen                  Orc's Head Ale 
+     Bolmara potion                   Kenar's Dropjaw Ale 
+     Torban leaf                      Miner's Muddy Ale 
+     Woth flower                      Dacro's Dream Ale 
+     Ambrominus leaf                  Lost Dogwater Ale 
+     Ephlox moss                      Golden Goose Ale 
+     Cactacae spine                   Bearded Ladies' Ale 
+     Calamia fruit                    Mad Mutt Frothy Ale 
+     Rose-marrow potion               Semak's Smooth Ale 
+     Aloeas stem                      Agrak's Amber Ale 
+     Brotheras potion                 Reaper's Red Ale 
+     Basal moss                       Mama Dwarf's Ale 
+     Pothinir grass                   Aged Schooner Ale 
+     Talneo potion                    Gert's Homemade Ale 
+     Wingstem potion                  Wort's Winter Ale 
+     Bur-clover potion                Volcano Vision Ale 
+     Soyvn clove                      Cap't Pegleg Ale 
+     Yab fruit or Cothiner Flower     Bloody Krolvin  Ale 
+
+**NOTE: Teras Ales are bought in either small flagons or large 
+barrels. They can be poured directly into a dececed body to heal 
+that particular injury. Also not show are the "porter" or "rezzing" 
+alesavailable due to the fact that they are quite expensive and you 
+need atleast a 102 in mana share to use them effectively. 
+
+PINEFAR LANDINGS EQUIVALENTS 
+
+     Acantha leaf tea                 Acantha leaf 
+     Sweetfern tea                    Basal Moss 
+     Red lichen tea 
+     Feverfew tea                     Ambrominas leaf 
+     Gingko nut tea                   Rose Marrow Potion 
+     Sassafras tea                    Yaba fruit/Coth flowers 
+     Sweetfern potion                 Pothiner grass 
+     Red lichen potion 
+     Feverfew potion                  Ephlox Moss 
+     Gingko nut potion                Aleoas Stem 
+     Manroot tea 
+     Valerian root tea 
+     Pennyroyal tea 
+     Wyrmwood root tea 
+     Manroot potion 
+     Valerian root potion 
+     Pennyroyal potion 
+     Wyrmwood root potion 
+     Daggit root potion 
+     Angelica root potion 
+
+
+

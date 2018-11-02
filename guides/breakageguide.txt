@@ -1,0 +1,212 @@
+Gilgis's Quick and Dirty Guide to Breakage
+
+This guide is written by the player of Gilgis and Ayzur.
+E-Mail: gilgis@play.net
+Dated: 11/14/99
+This is the first version of this short document.
+
+Feel free to forward this around/post it anywhere (read below for more 
+information regarding this). 
+
+THIS DOCUMENT IS WRITTEN DURING THE TESTING PHASE OF BREAKAGE. MANY ASPECTS 
+OF BREAKAGE MAY CHANGE BETWEEN THE RELEASE OF THIS GUIDE AND THE FINAL 
+VERSION OF BREAKAGE. THIS IS MEANT TO BE A QUICK AND DIRTY GUIDE TO BREAKAGE, 
+NOT AN END ALL SOURCE FOR BREAKAGE INFORMATION.
+
+I.   Introduction to this guide and explanation of breakage
+II.  What causes a clash?
+III. What determines if an item will break outright?
+IV.  What determines an item's STR/DU?
+V.   A list of tips to avoid breakage
+
+I. Introduction to this guide and explaination of breakage
+
+Breakage is the degrading and outright destruction of weapons while in a 
+battle. This occurs by weapons clashing during battle. This guide BRIEFLY 
+describes how breakage works and how best to prevent it. The first sections 
+of this guide describes the way breakage works. The end of this guide 
+describes exactly what you can do to help prevent your items from breaking. 
+If you begin to become sleepy reading the explaination of breakage, then I 
+suggest you skip right to the last section of the guide as many will find it 
+very valuable information.
+
+It is important to note that the version of breakage currently implemented at 
+the writing of this guide is an early version. Many aspects will change when 
+breakage is completely implemented. I will update this guide when breakage 
+becomes final with more information on it.
+
+Questions/Comments can be E-Mailed to gilgis@play.net
+
+I give the right for this guide to be published to any web site, mailing 
+list, or player written guide as long as absolutely no text is changed 
+(including the beginning which contains credits and information for this 
+guide). Questions/Comments on this usage policy can be E-Mailed to 
+gilgis@play.net. The most updated version of this guide can be found at 
+http://www.videogamesource.com/breakage.txt
+
+
+
+
+II.  What causes a clash?
+
+Clashing is what causes weapons to degrade/break. This section describes the 
+two  main types of clashes in the current breakage system.
+
+(In this guide, target refers to what is being swung at [whether a player or 
+a creature] and attacker is the one swinging a weapon.)
+
+Clean miss:
+For this clash to occur, the attacker must be swinging with a weapon and the 
+target must be holding either a weapon or shield. If this is true, then when 
+a target is swung at and the attack misses, there is a chance a clash will 
+occur ("Not even close" will show up if the attack does not clash). The 
+attacker's weapon and either the weapon or shield of the target will be 
+involved in the clash if it occurs. How it is determined what will break will 
+be explained a bit later.
+
+A hit:
+When an attacker actually hits a target, a clash will always occur if the 
+target is wearing some form of armor. At the time of this writing, every hit 
+will clash provided that the target is wearing some form of armor.
+
+The clashes described above are the same whether a creature is swinging at 
+you or you're swinging at a critter.
+
+III. What determines if an item will break outright?
+
+When you receive a clash, it will likely look something like this:
+
+Hilted vultite falchion clashes with reinforced shield!
+[STR/DU: 90/200 vs. 45/165, d100(Open) = 34]
+
+In the above, a mithril hilted vultite falchion clashed with a reinforced 
+shield. The STR/DU numbers for the falchion is listed first above. The 
+shield's STR/DU numbers are listed second. 
+
+The STR number is the number which determines which of the two items can 
+break. The item which has the highest STR wins and can break the item with 
+the lower STR. If both items have equal STR, then BOTH can break. In the 
+example above, the vultite falchion can break the reinforced shield. 
+
+DU is the number which determines what roll is necessary to break the item. 
+The roll is an open roll (meaning if a 96-100 is rolled, then there will be 
+another roll added again to the first total [this goes on until a 96-100 is 
+not rolled]). If this total of rolls is greater than the item's DU, then the 
+item will be broken outright, never to be seen again. A lower roll might be 
+able to break the item if it has degraded some but we will get to that later. 
+In the above example, a reinforced shield would need a 165 to be rolled for 
+the shield to break. The shield did not break because only a 34 was rolled.
+
+IV.  Degrading
+
+Each time a clash occurs, an item will degrade. The current quality of a 
+weapon can be measured by looking at it (a weapon with no degrading looks 
+normal). The quality of an item is measured in percentage. 100% is a perfect 
+quality item. Once a clash occurs, this total percentage will go down. Both 
+items in a clash will degrade slightly. Usually the weapon that can break 
+will degrade the most in a clash. The amount that it can degrade appears to 
+be based on the difference in the STRs of the other item in the clash.
+
+The DU of an item will drop as the item degrades. To find the degraded DU of 
+the item, use the formula below:
+
+DEGRADED DU = (DEGRADED%/100) * DU
+
+The Degraded DU is not listed in the clash information but any roll above it 
+will break the item.
+
+At the time of this writing, an item can be restored to full quality by using 
+the command 'fix my <item>'. By the time breakage is fully implemented, it is 
+likely that fixing an item will be more complex.
+
+IV.  What determines an item's STR/DU?
+
+STR/DU is determined by three main factors: The base of the item (ie: 
+longsword/buckler/Full Leather/etc.), The metal the item is made of, and any 
+extra strengthening the item has undergone. For example, a falchion has a 
+base STR/DU of 75/160. Vultite has a STR/DU of 15/40. Adding these together, 
+we get the STR/DU of 90/200. If any extra strengthening is done to the 
+weapon, then it would also be added in.
+
+I have decided against posting charts of current breakage numbers because I 
+believe that many will likely change before implementation. I will add these 
+when breakage is real.
+
+V.   A list of tips to avoid breakage
+
+In no order whatsoever, here are the best things you can do for breakage. 
+This should be the most valuable portion of this guide for most.
+
+- You absolutely must learn the STR/DU of all of your items and the STR/DU of 
+the armor, weapon, and shield of the creatures you are fighting. If you need 
+to find this information out, then swing a store bought weapon you can afford 
+to lose at the creature to find these stats. Remember, you can find the 
+STR/DU of a weapon or shield by missing the creature and the STR/DU of armor 
+by hitting the creature.
+
+- Very rarely will an open roll of over 500 come up. Generally, items that 
+have a 500 or higher DU are safe from breakage as long as their integrity is 
+kept up. Do remember that a 500+ roll is possible, just not very likely.
+
+- Never swing a nice weapon that has a low DU (I currently consider anything 
+over 500 a decent DU but even that will break over time. Note that there are 
+very few weapons with this high of a DU.) at a creature who has a 
+weapon/shield/armor that is higher than your weapon's STR! You risk the item 
+being destroyed! Remember that full plate, chain hauberk, and brigandine 
+armor will be stronger or equal to every weapon in the game (meaning your 
+weapon always has a chance of breaking against this armor). Any armor above 
+scale will beat out most weapons in the game.
+
+- When defending against attacks, make sure your nice weapon and nice shield 
+has a higher STR than the weapon being swung at you. Use an item you can 
+afford to lose if there is a chance it can break.
+
+- Wearing armor that can be destroyed by the creature you are hunting is 
+iffy. As mentioned earlier, your armor will only clash if you are actually 
+hit. If you  are sure there is no chance of you being hit, then go ahead and 
+wear your armor. Still remember that there is always the unexpected element 
+in GS3 in which almost anything can happen.
+
+- Chain and Plate type armor is generally safe from breakage due to their 
+high STRs and DUs. Leather based armors will very easily break apart under 
+the current system. Full leather currently has a STR/DU of 20/95. This will 
+break about every 20 times you get hit by a weapon with a higher STR than 20 
+(just about any weapon in the game). Casters who wish to use armor may 
+consider upgrading to leather breastplate (85/170). Note that even Double 
+Leather (35/120) does not even seem much of an option anymore.
+
+- An item with a STR at or above 76 is safe from most all weapons creatures 
+swing in the game. This number is the "magic number" for breakage at this 
+point. Few creatures will swing weapons with a STR higher than 75 (One very 
+large exception: Pyrothags). Creatures can still pick up player dropped 
+weapons so be wary of this occurrence. Remember that your weapon will not be 
+safe if you hit a creature wearing armor of an equal or higher STR though.
+
+- This was stated in an earlier tip but it is important enough to state 
+again. Leather breastplate will likely become a very important armor for 
+spell casters in breakage. Currently, there are very few weapons which can 
+break leather breastplate that creatures will gen with. Leather Breastplate 
+has a slightly higher spell failure rate with most spell circles than double 
+leather but offers much better protection than leather based armor.
+
+- So far, it appears that DB(DS) items that do not act like armor (no 
+greaves/helms/etc.) will not be able to be broken.
+
+- Remember that if a weapon is not swung at you, then there can be no clash. 
+You can use your 'paper' items in an area where creatures will only 
+claw/pound/bite/use the numerous other attacks some creatures use instead of 
+weapons.
+
+- So far, only weapons, armor, and shields can be broken. You are free to 
+hold a non weapon or shield in your hand and not risk it being broken.
+
+
+Above all, remember that you are not powerless against breakage. You will 
+need to learn when to use the right equipment for the right situation.
+
+This guide is written by the player of the GemStone 3 characters Gilgis and 
+Ayzur (in addition to quite a few other characters).
+
+Thank you for reading Gilgis's Quick and Dirty Guide to Breakage.
+This document has been last updated 11/14/99
+E-Mail: gilgis@play.net

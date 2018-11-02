@@ -1,0 +1,117 @@
+Sheath Making
+
+
+Step One
+
+First thing you need to do is find out how many units of animal hide 
+you need for your sheath by measuring the weapon you're making a 
+sheath for. Using a marked cord measure your arm, the standard size 
+for a sheath is 30 units. 
+
+
+WTRICK SHEATHM MEASURE
+
+---------------------------------------------------------------
+
+Step Two
+
+Once you have your hides, you cut as many units as you need for your 
+weapon sheath. There are three patterns: scabbard, sheath and weapon 
+sling. 
+
+
+WTRICK SHEATHM CUT <# units> <pattern>
+
+---------------------------------------------------------------
+
+Step Three
+
+After you have enough hides cut for your pattern, you have to cure it,
+so it will be durable. Use a portable wooden rack to stretch your 
+hides. After you stretch the pattern on the racks, coat the non-furry 
+side with the curative. 
+
+The curative costs 50 silver per unit of hide. 
+
+
+WTRICK SHEATHM CURE
+
+---------------------------------------------------------------
+
+Step Four
+
+When the pattern has dried, you sew  it together with some leather 
+threading. The thread costs 5 silver for every 4 animal hides. 
+
+
+WTRICK SHEATHM SEW
+The sheath is now made, but you may want to add more details... 
+
+---------------------------------------------------------------
+
+Step Five
+
+You can stamp your initials in the hide... 
+
+
+WTRICK SHEATHM INITIAL
+For sheaths and scabbards, you can  add a strap to wear it on your 
+belt, over your shoulder, on your wrist or on your ankle. Adding a 
+shoulder, wrist or ankle strap is counted as one of the extras you can 
+add to your sheath. Weapon sling patterns include a shoulder strap so 
+one does not have to be added. 
+
+Also, you can only attach wrist straps to sheathes or scabbards made 
+with 4 hides, and ankle straps with 8 or less hides. Only smaller 
+weapons will be able to fit in these types of sheaths, i.e. daggers 
+& knives. 
+
+Belts cost 50 silver, shoulder straps cost 100 silver.
+Wrist and ankle straps cost 25 silver. 
+
+
+WTRICK SHEATHM STRAP <type>
+
+---------------------------------------------------------------
+
+Step Six
+
+Next, you can add one of the four  following extras:
+inlaid jewels, fringe, metal binding, or you can dye your sheath. 
+
+You can also attach jewels that you supply.
+The fixtures cost 50 silver each, and you'll need at least 6 for them 
+to be noticable on your sheath.
+
+Not all gems are can be used on a sheath. You will have to use trial 
+and error to find a suitable gem that you like. 
+
+
+WTRICK SHEATHM INLAY
+If you like a more fierce look to your sheath, you can add a fringe 
+of claws, teeth, talons, feathers or bones. You'll need six of these 
+items for the fringe to be noticable and the six fixtures will cost 
+300 silver. 
+
+
+WTRICK SHEATHM FRINGE
+Binding your sheath with metal adds to its strength,
+and adds a decorative touch. There is copper, which costs 2 silver per 
+unit; brass for 10, silver for 50, gold for 100, mithril for 140, ora 
+for 160, alum for 200, vultite for 300 and veniom for 1800. 
+
+
+WTRICK SHEATHM BIND <metal>
+Adding dye obscures what kind of hide you used
+The hide will look like ordinary dyed leather. I.E. A puma hide sheath 
+when dyed with midnight black dye will become a midnight black sheath. 
+
+
+The dye costs 50 silvers per unit. Dying hides take time to dry. 
+
+
+WTRICK SHEATHM DYE <color>
+<color> the dye color/description can be 1 or 2 words, i.e. black or 
+midnight black.
+
+

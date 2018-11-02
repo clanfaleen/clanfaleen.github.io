@@ -1,0 +1,611 @@
+Empathic Healing 101 
+By Eillie Lindenleaf 
+9-26-95
+& 
+Supplemented by Sylvamir Aspynleaf
+2-1-97 
+and Thanks to Laranna's Lair for this information
+
+
+Eillie's guide is still wonderful at it's roots and in many of it's 
+strategies, but I have taken the liberty of altering her guide a very 
+small amount, to update it. I am sure she, herself, does not mind and 
+if anyone has any comments, feel free to email me at Sylvamir. 
+
+Any alterations that I make begin with a '~'. 
+Many of us miss her and that well-balanced woodman's hatchet....
+In her memory and hopeful return,
+Sylvamir Aspenleaf
+
+The first thing I always say when teaching empaths is that they've 
+chosen the most difficult profession in GemStone. While changes to our 
+spell list in the future may change this, I expect we will always be 
+the least effective hunters. 
+
+One reason is that our training costs for physical skills such as 
+edged weapons, combat maneuvers, etc. are similar to those for mages 
+and sorcerers -- but unlike mages and sorcerers, the sword is really 
+the only way we can effectively fight creatures. 
+
+By making informed choices when rolling and training a character, we 
+can almost, but not quite, make up for our deficiencies. You'll find 
+that at a certain point, group hunting is by far a better choice than 
+solo hunting -- and that you can often earn experience faster by 
+healing than by hunting. 
+
+It's possible to advance and succeed as an empath. In fact, the 
+highest-level character in the game, High Lord Strom, at level 
+90-something, is one. 
+
+Just as we depend on others, they depend on us. Herbs and the healer's 
+tent are expensive, second-rate substitutes for an Empath. You'll find 
+that folks are really glad to have us around. Most enchanters give us 
+major discounts for their services. Most people auctioning off extra 
+items will give us better prices. People don't like seeing empaths 
+die, so when we do they come to our rescue in a big hurry.
+
+My point here is that power-hungry, anti-social, or violent-minded 
+people (and I mean this in the nicest possible way <g>) will fail 
+utterly as empaths. (They might make great sorcerers though!) Those 
+that enjoy living to help others, who think there's no better feeling 
+than saving someone's life and getting a hug and the word "Thanks" as 
+reward, and who prefer roleplaying to "rollplaying," make fine 
+empaths. :)
+ 
+
+GUILD SPEAK
+Type GUILD to speak Guild Speak. Only other Empaths will hear and 
+understand you. This way we can talk about stuff that would bore 
+everyone else ("Left leg please?" "Arathorn's head." "Do NOT heal that 
+guy unless he asks you to, he doesn't like being seen with any 
+weakness." "Sheesh, that fiter gave me 20 whole silvers. If I save 
+his life only 56 more times I can buy one Sovyn Clove!") Type COMMON 
+again to speak normally. :)
+ 
+
+TRANSFERRING & HEALING
+We heal by taking on the injuries of others, then by healing 
+ourselves. Healing spells don't work when you cast them at other 
+people. :) 
+
+To transfer health point loss to yourself, type TRANSFER <person's 
+name>. You transfer 5 health points per level; there is no way to 
+transfer less. What this means is that as you advance, you must be 
+more careful that you don't transfer too many. If you transfer more 
+health point loss than you can take ("overhealing"), you die. Always 
+check your own health (with the HEALTH command) before transferring 
+other wounds! Practically speaking, your life is more valuable than 
+anyone else's -- because while you're alive you can save many other 
+lives.
+
+To heal yourself, PREP HEAL1 and then CAST <your name>. This will use 
+one mana point. Be sure you check your mana points on occasion -- if
+you cast a spell that you don't have the power for, it does damage to 
+your nervous system. When you learn HEAL2, you can use it to heal more 
+points at a time.
+
+To transfer other types of damage, type TRANSFER <person> <area>. The 
+areas are: Left Leg,Right Leg, Left Arm, Right Arm, Chest, Abdomen, 
+Back, Neck, Head.
+
+To transfer hand damage, use the arm. If there's both arm and hand 
+damage, the first transfer will take the arm damage, second will take 
+the hand damage. Eyes are a little weird in that you transfer them 
+from the head, but then use Organ Repair to heal them.
+
+You can transfer areas as soon as you learn the spell to heal it. 
+Empath Circle spells are, in order: HEAL1, LIMREP1, SYSREP1, HEDREP1, 
+ORGREP1, HEAL2, LIMREP2, SYSREP2, HEDREP2, ORGREP2. The "1" spells 
+will let you transfer and heal minor damage, while the "2" spells let 
+you transfer and heal medium and major damage. 
+
+If you have minor damage on an area and take minor damage there again 
+-- either in combat or by transferring another wound -- you suddenly 
+have medium damage and begin bleeding. Heal yourself first. 
+
+After that, our spell list has several scar-healing spells. You can't 
+transfer scars from other people, normally, even with these spells. 
+What these do is allow you to get rid of scars on yourself. LIMREPT1 
+through ORGREPT1 heal minor scars, LIMREPT2 through ORGREPT2 heal 
+major ones. There are separate spells after that for replacing blinded 
+eyes and lost limbs. 
+
+You get a scar when you heal damage. Healing minor cuts and bruises on 
+the left leg will result in "old battle scars on the left leg." 
+Healing a severed right arm results in a MISSING right arm -- not a 
+good situation to be in. However, beyond the scar-healing spells there 
+are herbs that can eliminate scars and limb loss -- and a special 
+empath trick that leaves some people rather confused. 
+
+Let's say you're at least second level. Oghier hobbles in with a 
+severed right leg, which I transfer to myself. Since I'm standing, I 
+scream and fall to the ground. I mumble something about always 
+forgetting to lie down. Then I cast LIMREP2. I now have "a fractured
+and bleeding right leg" and "a missing right leg." I cast LIMREP2 
+again, and have "minor bruises and lacerations on the right leg" and 
+"a missing right leg." I ask in Guild Speak, "Someone take my right 
+leg a minute?" 
+
+You TRANSFER EILLIE RIGHT LEG. Suddenly I have no right leg damage at 
+all, and you have only minor bruises and lacerations. The scar's 
+gone! I transfer the right leg damage back from you and heal it. You 
+have no scar while I just have a tiny one I can live with. In the 
+trade, this is usually called "cleanup." In order for it to work, 
+you shouldn't heal major wounds down all the way, just down to minor
+wounds. The exception is if you're out hunting; those minor wounds 
+can leave you vulnerable to worse injuries. 
+
+We get no experience points for transferring wounds from each other 
+-- otherwise there'd be nothing to stop us from transferring the same 
+wound back and forth and becoming Lords and Ladies in two days. <g>
+
+We DO get experience from transferring from others, but not for the 
+actual healing. One trick we sometimes use is to allow lower-level 
+characters to take health point damage from the injured, while a 
+higher-level empath takes the HP damage from the lower-level empath 
+to let him keep taking more. 
+ 
+
+DIAGNOSING
+
+DIAGNOSE <person> is not particularly useful. It will tell you whether 
+or not they're injured, but not what the injuries are. DIAGNOSE 
+<person> FULL will tell you how many health points they have, where 
+they're injured, how much they're bleeding, and whether they're 
+poisoned or diseased. To use DIAG FULL though, you have to have both 
+hands free. 
+
+LOOK is the best choice usually -- you can quickly see if they have 
+injuries. If they're low on health points too, they'll probably tell 
+you -- or else get in the habit of typing TRAN <person> once after you 
+heal all their obvious injuries, if you're not low on health yourself.
+However, diagnosing is the only way to tell the difference between a 
+freshly blinded eye and one blinded by a scar.
+
+~ APPRAising some is now a very useful thing to do as well. It sums up 
+those lengthy descriptions into just an individuals injuries. The only 
+drawback to this that I've seen, is that it does not give the 
+profession of the person. If you use this solely, you will probably 
+end up healing a lot of empaths that don't really need it. <g> 
+
+
+BLEEDING
+Bleeding means you're losing health points at a certain rate per round 
+(about 7 seconds). TENDing a wound (first aid skill) can stop bleeding 
+temporarily. The more training one has in First Aid, the longer the 
+bandage will last and the shorter the roundtime will be. Some people 
+in a particular secret society have the ability to clot their blood 
+magically; this will look a little strange to us.
+
+You don't earn experience from transferring health points from a 
+bleeding character, even if they're doing the clotting trick and 
+aren't actually losing blood. Get the wounds first if you can. 
+
+Poisons and diseases also remove a number of health points per round, 
+though the amount they remove changes from round to round. Mana bread 
+that has gone bad can poison you, so ALWAYS sniff it before eating it.
+Unless it has a wonderful aroma, don't eat it. Eventually the 
+poison/disease wears off, but until then, the victim REALLY needs an 
+empath to keep taking the damage. Sometimes a poison can be too much, 
+such as one I saw which took 160 health points per round. There's 
+nothing to be done about those. Poisons and diseases are not 
+contagious, so don't be afraid to heal someone with one -- just watch 
+your own health points carefully so you don't overheal. 
+
+
+HERBS
+
+If you see other herbs around, they might be the old herbs -- type 
+SHIFT HERBS in the game for a list. 
+
+~ IceMule Equiv.
+Health Points Acantha Leaf Iceberry Tart
+Limbs
+Minor cuts & bruises Ambrominas Leaf Dabbing's Family Tart.
+Fractured & bleeding Ephlox Moss Frog's bone porridge.
+Severed Ephlox Moss Frog's bone porridge.
+*Old battle scar Cactacae Spine Elk Fat Gel
+*Mangled Calamia Fruit Walrus Blubber
+*Missing Sovyn Clove Rock Ptarmigan Feathers 
+Head/Neck
+Minor bruises about the head Rose-Marrow Potion Elk horn potion
+Lacerations & mild concussion Aloeas Stem Ram's Bladder
+Trauma & bleeding from the ears Aloeas Stem Ram's Bladder
+*Scar across the face Haphip Root Sparrowhawk Pie
+*Several facial scars Brostheras Potion Polar Bear Soup
+*Terrible mutilation wounds Brostheras Potion Polar Bear Soup
+Nervous System
+Twitching Wolifrew Lichen Leaftoe's Lichen Tart
+Sporadic convulsions Bolmara Potion Snowflake Elixir
+Uncontrollable convulsions Bolmara Potion Snowflake Elixit
+*Slurred speech Torban Leaf Ma Leaftoe's Special Tart
+*Constant spasms Woth Flower Flower-shaped Tart
+*Difficult time with muscle control Woth Flower Flower-shaped Tart
+Chest/Abdomen/Back
+Minor bruises and cuts Basal Moss Tundra Grass
+Deep lacerations Pothinir Grass Musk Ox Tart
+Gashes and serious bleeding Pothinir Grass Musk Ox Tart
+*Old battle scar Talneo Potion Rock Lizard Potion
+*Painful looking scars Wingstem Potion Earthworm Potion
+*Terrible permanent mutilation Wingstem Potion Earthworm Potion
+Eyes
+Irritated Basal Moss Tundra Grass
+Swollen Pothinir Grass Musk Ox Tart
+Blinded Pothinir Grass Musk Ox Tart
+*Black and blue Talneo Potion Rock Lizard Potion
+*Bruises Wingstem Potion Earthworm Potion
+*Blinded Bur-Clover Potion Starfish Potion
+ 
+
+INVASIONS
+When creatures enter town and start attacking people, it's a time for 
+extra caution. Find a safe place and stay there! Don't try to fight 
+the attackers yourself. Again, your life is the most precious, for 
+you have to stay alive in order to heal others. If anything comes into 
+Town Square, run to the Raging Thrak Inn to the northwest, then go to 
+the front desk (don't check in though). There's an earthnode there, 
+which will help you absorb mana as fast as you do in TS, but creatures 
+can only rarely enter the Inn. Use a crystal amulet to announce your 
+location. Empaths and clerics often gather there, or outside the town 
+in the Wayside Inn, to heal and rezz during times of danger. 
+ 
+
+HEALING THE DEAD 
+
+If someone dies with negative health points, they will die again 
+immediately if a cleric tries to resurrect them. The same is true of 
+bleeding, though they'll have a bit more time.
+
+When someone dies, often they'll need both a cleric AND an empath. 
+
+If the body is an a dangerous place, drag it to safety if you can. Get
+your hands free and diagnose full. Be careful not to overheal, 
+otherwise there'll be one more person for the clerics to rezz. 
+
+When someone is "vaporized ," it means they're not only dead, they 
+have the most serious possible wounds on every location on the body. 
+This can happen when someone falls from a great height. There are big
+experience points there for us, but don't be overeager -- you could 
+quickly find yourself bleeding at 50 points per round, and then be 
+limbless when you're done. It's really a job for two or three empaths.
+ 
+
+TEAMWORK 
+The key here is to get people healed quickly, especially those that 
+are bleeding badly -- while maximizing everyone's chances at earning 
+experience, and minimizing the scars we're stuck with. 
+
+Older empaths should leave wounds and health point damage for younger 
+ones, handling what the younger ones cannot. However, some older 
+empaths are unable to hunt for experience because they can't kill 
+creatures 10 levels below themselves, and can earn experience only
+from healing. It's definitely a balancing act.
+
+Watch your experience; when your mind gets numb, bow out for a bit and 
+leave it to other empaths. If you're at MUST REST, don't heal anyone
+unless nobody else can, because you won't earn any experience from it 
+anyway.
+
+If someone asks you to heal them, that patient is yours to deal with 
+unless you pass them on. Similarly, is someone asks me to heal them, 
+that patient is mine to deal with unless I refer them to someone else. 
+However, if I've just eaten a Sovyn Clove and am in a long roundtime, 
+and the patient says "Help me Eillie, I'm dying" you can help them... 
+or if we've arranged in advance that you get health point damage while 
+Merry gets minor stuff and I get bleeders. (In that case, you'd wait 
+until I got all the bleeding before transferring HPs, so you can 
+learn from it.)
+
+Scar cleanup is another big thing, but it takes lower priority than 
+healing. Unless, for example, someone died and Ravenstorm is about to 
+go after them with his Transference spell, and he's missing both arms. 
+
+Gladiatorial Games are fondly known as the Healer 500. This is the 
+one time when players fight each other for fame and glory. Nobody 
+dies in these, but instead fall unconscious and are dragged to the 
+infirmary. Six empaths can be constantly in a state of MUST REST from 
+this event. :) We just take turns, usually in alphabetical order, 
+healing losers as they're dragged in. The key is to get people healed 
+fast, so they can move on to the next round. If you overheal during 
+one of these, you pass out rather than die -- but it's still going to 
+mess you up for a while.
+ 
+
+QUIRKY PEOPLE 
+
+Some folks don't like being healed in public, because they don't want 
+to be seen as weak. Others will make public comments about "blasted 
+cocky healers" but are quite nice folks in private. 
+
+Many Lords don't want to have their "fractured & bleeding" hands 
+healed, because they hunt creatures that regularly break them again 
+anyway -- and they're so well-trained in First Aid that they can slap 
+on an incredibly long-lasting bandage in a second or two.
+
+Some will be very demanding and fret over the tiniest scratch, while 
+others will either forget they're wounded or be so shy they'd rather 
+bleed to death in TS than ask for help. Others roleplay mute 
+characters, so they can't ask for help without breaking character.
+Whenever someone taps you on the shoulder, hugs you seemingly at 
+random, or the like, LOOK at them to see if they're injured because 
+they might be trying to tell you something.
+ 
+With the large influx of people, some healers will only work on those 
+that specifically ask for healing. Others just heal folk as they see 
+them injured. What you choose to do it up to you. I personally like to 
+see adventurers "In good shape", so I heal whatever wounds I can, 
+when I can. Of course, I get chewed out now and then for healing 
+someone's "honor" wound or other such cases. Again, it is up to you. 
+ 
+
+STATS, TRAINING & EQUIPMENT (this gets complex!)
+It's worth rerolling if you have bad stats. Until you get to around 
+3rd level, it's hard to tell whether your stats are going to be good 
+enough for you. If you do reroll, withdraw all your money, put all 
+your stuff in a backpack, and hand it off to someone you trust to 
+hold onto until you're done, so that you can have these things when 
+you're done rerolling. :) 
+
+If you aren't getting at least 35 physical and 35 mental training 
+points per level, you most definitely want to reroll. 
+
+Placement of your stat rolls is very important! As empaths, we get a 
++10 bonus to Wisdom and Logic, so you don't need more than 90 in 
+either of those stats. However, you DO want a pretty good number in 
+Wisdom, for it determines how many mana points you'll have every year.
+85-90 Wisdom is perfect; 91+ is overkill. 
+
+A high number in Aura is good, as it affects both your Physical and 
+Mental Training points, and determines your Spirit Points. Empaths 
+need all the Strength they can get for hunting purposes -- NEVER put 
+anything under 70 in Strength, and you should really try for an 80 
+or more. Charisma and Reflex are where you can put your two lowest 
+rolls, generally. Your choice of race (and the associated bonuses) 
+will affect how you'll want to assign stats. Racial bonuses go into 
+stat BONUSES, while profession bonuses go directly into the stat -- 
+this means that racial bonuses aren't going to affect your training 
+points, but the profession bonuses will. 
+
+Every chance you get, train in Edged Weapons! The skill costs a bit 
+more than blunt, but there are more swords and axes out there to 
+choose from than clubs, maces, etc. This is just my opinion, but it 
+seems to be a commonly held belief. Even if you choose to roleplay an 
+empath that doesn't hunt -- which is a viable path -- training in 
+weapons will help you defend yourself. 
+
+Wear leather armor, and train in Armor skill until you have +40 -- 
+which is eight times, or 7th level. Armor training will reduce your 
+roundtimes. Other types of armor require too much training and can 
+cause your spells to fail -- and a failed healing spell can be 
+dangerous. When you can afford to (this will be a while!), try to get 
+the armor enchanted by a high-level mage. It's an expensive process 
+but worth it. When an armor merchant comes to town, once your armor's 
+enchanted a bit, get it padded against criticals, strengthened, and 
+lightened. (If your armor is padded, it can't be enchanted anymore -- 
+so balance your decision carefully. Usually money and opportunity are 
+the big factors there anyway.) 
+
+Train in Shield skill often if you can. This gives you a nice bonus to 
+your defense. 
+
+At level 0, train twice in Minor Spiritual spells. After that try to 
+learn two spells every year: one Empath Circle spell, and one Major or 
+Minor Spiritual Circle spell. Major Spiritual has some great stuff 
+you can use for hunting later on: Bravery (11) and Heroism (15) both 
+give you significant bonuses to your AS. The Minor Spiritual Circle 
+spells up to 3rd level are useful, but be wary of Spirit Barrier as it 
+lowers your AS while raising your DS. (It's good for rescue missions, 
+but not for hunting.) Spells such as Unbalance and Call Lightning on 
+the Minor Spiritual Circle are quite useful too. 
+
+You can stop training in the Empath Circle when you've learned ten 
+spells, or keep going to 20 for all the scar spells. Or plan for the 
+future (when the spells will be completely revamped) and keep training 
+in it to 30. You'll be giving up useful spells from the Spiritual 
+Circles if you do that however. 
+
+Always double-train in Physical Training until you reach your max 
+HPs -- and then always single-train in it, to increase your HP 
+recovery rate.
+
+Double or triple-train in First Aid until about 10th level at the very 
+least. If you keep training in it you'll get better at skinning 
+creatures, and since it's such a cheap skill for us there's little 
+reason not to keep training in it. 
+
+Double or triple-train in Mana Sharing until you have a +102 in it. At 
+about 7th level you'll find you're constantly short of power; if you 
+have Mana Sharing others can send you more when you need it. Rumor has 
+it some of our upcoming new spells may benefit from further training 
+in it, and it's cheap, so you might want to keep singling in it 
+thereafter. 
+
+Spell Aiming isn't terribly useful. None of our spells need it, except 
+for Fire Spirit, which isn't devastating anyway. :) It also affects 
+one's skill with wands, but that's an expensive and difficult way to 
+hunt. You can safely skip it unless you've got a few extra training 
+points to kill. 
+
+You want to have at least one rank of Swimming by level 10, so you can 
+swim to the shrine in the Krolvin area. Train in Climbing maybe once 
+every three or four levels. If you have some spare points you can put 
+them into Scrolls, Trading, Perception. Hiding can be fun, but 
+honestly not very useful without Ambush, which costs so much for us to 
+train in. 
+
+Don't worry about Combat Maneuevers or Multiple Opponents until you're 
+at about 18 or so and can afford one every other level or so. 
+
+Here's what I have for stats. I'm relatively successful at hunting, -- 
+for an empath. Which means I can hunt creatures near my level, with 
+characters near my level, IF they hold back a little bit and let me 
+get in a blow or two. Or if the hunting party is completely 
+outnumbered anyway. I can't hunt solo well however; I usually barely 
+survive a long stun, and then run back to town. That's life as an 
+empath. :) 
+
+
+Name: Eillie Lindenleaf
+Race: Sylvankind Profession: Empath Expr: 600230
+Gender: Female Age: 53 Level: 22
+Maximum Mana Points: 66 Health Points:135 
+Hair: long, straight, dark brown. Eyes: grey
+Complexion: fair
+Lindenleaf family fame: 5299679 points.
+Statistic Bonus
+Constitution (CO) : 61 ... 5
+Dexterity (DE) : 50 ... 5
+Discipline (DI) : 71 ... 5
+Logic (LO) : 69 ... 9
+Intelligence (IN) : 58 ... 4
+Strength (ST) : 89 ... 19
+Reflex (RE) : 85 ... 22
+Charisma (CH) : 51 ... 5
+Wisdom (WI) : 100 ... 25
+Aura (AU) : 98 ... 29
+
+
+
+
+(The stats and bonuses reflect 22 years of stat gain, as well as 
+profession and racial bonuses. Don't expect to see a set of raw die 
+rolls this nice! 
+
+I should not have put a higher stat in Reflex than Dexterity -- 
+Sylvankind Empaths rise quickly in RE and slowly in DE. The low DE 
+makes me very vulnerable to spells such as ewave, so I get knocked 
+over rather easily. However, few creatures cast ewave, and I'd rather 
+have a low DE than a low ST. 
+
+An ST of 89/19 is good for combat, but Sylvankind are small and 
+lightweight (we prefer "lithe" and "svelte" ), which puts a damper on 
+carrying a lot of weight or dragging bodies. For a great extra 
+strength bonus that will help in combat, as well as more HPs than 
+I'll ever have, choose the Giantman race instead. But I see it as an
+important roleplaying choice, not as a way to optimize your stats, and 
+there are tradeoffs. Sylvankind for instance have an incredible 
+resistance to disease and poison.)
+
+Bonus Skill Name
+-----------------------------
+82 Armor Use
+99 Shield Use
+10 Combat Maneuvers
+99 Edged Weapons
+20 Climbing
+15 Swimming
+30 Stalking & Hiding
+50 Perception
+66 Scroll Reading
+5 Magic Item Use
+102 Mana Sharing
+15 Spell Aiming
+134 First Aid
+62 Trading
+20 Picking Pockets
+
+
+(The first ten times you train in a skill, it gives you +5. The next 
+ten times, +4, the next ten +3, the next ten +2, and after that it's 
+always +1. This prevents high-level characters from being utterly 
+godlike. 
+
+You may wonder at the Picking Pockets -- no, I don't steal from 
+people. Training in this skill (as well as Perception) helps me 
+prevent anyone from successfully picking MY pockets. But the best way 
+to keep your silver safe is keep in in the bank as much as possible.)
+
+
+Circle of Magic: Major Spiritual
+lv Num Code Name
+-- ---- ---------- ----------------------------------
+1 0201 calm Calm
+2 0202 sshield Spirit Shield
+3 0203 manna Manna
+4 0204 unpresence Unpresence
+5 0205 light Light
+6 0206 darkness Darkness
+7 0207 purifyair Purify Air
+8 0208 liverune Living Rune (*)
+9 0209 untrammel Untrammel
+10 0210 silence Silence
+11 0211 bravery Bravery
+12 0212 interfere Interference
+13 0213 minrsanct Minor Sanctuary
+14 0214 bind Bind
+16 0216 frenzy Frenzy
+17 0217 hrbmstry Herb Mastery (*)
+18 0218 spirserv Spirit Servant (*)
+19 0219 spshield Spell Shield
+20 0220 mjsanct Major Sanctuary (*)
+
+
+Circle of Magic: Minor Spiritual
+lv Num Code Name
+-- ---- ---------- ----------------------------------
+1 0101 swarding1 Spirit Warding I
+2 0102 sbarrier Spirit Barrier
+3 0103 sdefense Spirit Defense
+4 0104 disresist Disease Resistance
+
+
+Circle of Magic: Empath Base
+lv Num Code Name
+-- ---- ---------- ----------------------------------
+1 0801 heal1 Heal I
+2 0802 limrep1 Limb Repair I
+3 0803 sysrep1 System Repair I
+4 0804 hedrep1 Head Repair I
+5 0805 orgrep1 Organ Repair I
+6 0806 heal2 Heal II
+7 0807 limrep2 Limb Repair II
+8 0808 sysrep2 System Repair II
+9 0809 hedrep2 Head Repair II
+10 0810 orgrep2 Organ Repair II
+11 0811 limrept1 Limb Repair III
+12 0812 sysrept1 System Repair III
+13 0813 hedrept1 Head Repair III
+14 0814 orgrept1 Organ Repair III
+15 0815 limrept2 Limb Repair IV
+16 0816 sysrept2 System Repair IV
+17 0817 hedrept2 Head Repair IV
+18 0818 orgrept2 Organ Repair IV
+19 0819 eyeregn Eye Regeneration
+20 0820 limregn Limb Regeneration
+
+
+(*) = not implemented. 
+
+
+The odd codes for the Repair III and IV spells are because they used 
+to be called Repair True I and II. 
+
+I'm now going to be training in Minor Spiritual because I'd really 
+like to learn Unbalance. The reason I trained so much in Major is 
+because the more spells you know on a list, the better you'll be at
+casting certain spells on it -- such as Bind, an extremely useful 
+hunting spell when it works. But I've been neglecting the Minor 
+Spiritual spells.
+
+The Future 
+The Empath Circle list is going to go through massive changes, 
+possibly making a good portion of this document obsolete. :) The 
+latest word is that we will have 5 or 10 healing spells rather than 
+20, and we'll have mental attack spells to enhance our hunting. 
+Perhaps even the ability to reverse- transfer damage, though that's 
+just a rumor and has some inherent problems. 
+
+There are already slots for spells 825 and 830 -- Major Forget and 
+Intensify. Intensify's workings have not been revealed, but Major 
+Forget will make the target lose its prepared spell and the mana 
+points required to cast it, and take nervous system damage -- while 
+the caster will have that spell prepared plus the extra mana required 
+to cast it -- essentially, ripping the spell from the target's mind. 
+That alone may make it worthwhile to train in Spell Aiming. :) 
+
+These new spells will mean an increase in our ability to hunt, and an 
+excellent reason to train in the Empath Circle spell list beyond 
+tenth level. :) 
+
+-Eillie Lindenleaf- 
+

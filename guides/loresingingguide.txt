@@ -1,0 +1,133 @@
+ In response to the frequent requests I've had for information on
+ loresinging, I offer this simple file.  The information contained in
+ the file was originally written in reply to questions in the Bard
+ folder of the GemStone III Message area so I've arranged this in a
+ Question/Answer format.  I hope the information can be of use to
+ those who download this file. 
+
+Lady Tanna 
+
+============================== 
+
+Question: How do I sing to an object? 
+
+Answer:  Hold the object in your right hand and use the SING command
+in this manner: 
+
+sing Object here that I see,;Tell your purpose now to me. 
+
+Use a semi-colon between each line of your song in order to get a
+song that will appear like this: 
+
+Object here that I see, 
+Tell your purpose now to me. 
+
+Don't forget that loresinging is magic in nature and therefore uses
+up manna. Keep an eye on your manna whenever you are singing so you 
+don't hurt your nerves overextending yourself. 
+
+Question: Why do all the objects I sing to tell me they weigh a pound 
+and are worth about 1000 coins? 
+
+The <object> weighs about a pound and is worth 1000 coins"  is what 
+you get when one of several things is happening: 
+
+1. The item really dislikes you and is lying through it's non-existent 
+   teeth. 
+
+2. You aren't incorporating the proper keywords in your song. 
+
+3.  The item really is under a pound and worth 1000 silvers.  (Happens
+    sometimes.)  ::chuckle:: 
+
+4.  You are dealing with a magic item, or a complicated custom item
+    and you just aren't old enough for your voice to work on that
+    item yet. 
+
+If number 1 is your problem, you might have a charisma that is too 
+low for you to be an effective lore singer.  I used to get that 
+message a lot before I retrained and went from 50 Charisma to over 
+90.  Now, I don't see it much anymore.  (Actually, I haven't seen it 
+since I passed level 5.) 
+
+If number 2 is your problem,  be specific about what you want to 
+know.  Try looking for keywords (and don't ask me for a list - there
+really isn't a list and if there ever was, the gods would probably 
+change the list.) 
+
+If number 4 is your problem, just be patient.  As you age, your 
+singing will get better. 
+
+
+Question: What are the keywords? 
+
+Answer:    You are going to have to work this out yourself. 
+I have a few words that always work, other words that only work 
+sometimes, and there have been times I've sung nonsense rhymes and 
+gotten fantastic information.  My best hint is to ask what you want 
+to know.  If you want to know weight, ask the item what it's weight 
+is.  If you want to know value, ask the item what it's value is.  So 
+on and so forth. 
+  
+
+Question: What's the formula for singing? 
+
+Answer:  I had an older bard teach me a "formula" only to find out 
+that doing the exact opposite of what was recommended gets me 
+perfectly good information.  Lore singing seems to be an art, not a 
+science.   At best I can offer some hints on things that have worked 
+for me and you can try them and see if they work for you. 
+
+Minimum "singing" is probably a couplet song.  Some say the lines have 
+to rhyme, I haven't found that to be strictly true.   But to sing a 
+stone for a quickie value check I'd probably sing something like this: 
+
+Topaz of a bluish hue;Sing your weight and your value! 
+
+The topaz will then "sing" or vibrate back something like "under a 
+pound and worth less than 10 silvers." 
+
+It generally works best to start your singing rounds by addressing the 
+item by it's functional name. Tap the item using what you think is 
+it's functional name before singing - for instance "tap handaxe" and 
+see if you manage to tap the item.   Sometimes it's not as obvious as 
+you might think.  As an example,  there is a gem called "lapis lazuli" 
+which which is identified by the name "lapis" not "lazuli". 
+
+Also, altered items might have the functional name lost somewhere in 
+an elaborate description.  For instance, you might be asked to sing 
+to a "silvery mithril handaxe destroyer with a hilt made of genuine 
+gnoll skin".  On something like this I'd tap first with "Handaxe" and 
+if that didn't work try "Destroyer".  Then sing something like this: 
+
+Handaxe with a morbid grip;Hear the song now from my lip;Sing your 
+weight now to me;Dispel now all mystery! 
+
+Verses after the initial verse don't seem to be dependant on using 
+the functional name as the first word but I usually use it anyway.   
+Singing multiple verses is highly recommended for a complicated 
+magical item.   Longer, four line verses can be used instead of two 
+line couplets, but going over four lines doesn't seem to help as much 
+as singing more than one verse per item. 
+
+Question: How accurate is the value you get from items you sing to? 
+
+Answer: If you are talking about whether or not bards can set the 
+price for an item the answer is no.  Market, what people will pay, is 
+what determines what an object is "worth". 
+
+The value you may get from an object can be one of many things. 
+Sometimes, you'll get the value of what you could sell it for at the 
+pawnshop.  Gems, you get roughly the value of what the gemshop owner 
+will pay you.  Also, keep in mind you will get an average value on 
+most gems. The GemShop owner can offer considerably more or less 
+depending on his demand that day or the quality of your gem. 
+
+Eventually you'll start dealing with altered items.  If an altered 
+item wasn't sold by a merchant, but rather, just had it's appearance 
+changed by a player dealing directly with an alterer, it's value might 
+actually be very high on the open market - but singing to it will 
+give you it's old unaltered value.   ie: "An icy blue imflass 
+broadword dripping with blood" might sell on the open market for 
+45,000 silvers.
+

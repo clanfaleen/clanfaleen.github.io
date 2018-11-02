@@ -1,0 +1,477 @@
+A Street Bard's Guide
+(by Jaslin Machea) 
+  
+I. Introduction: 
+
+ Being a bard is perhaps the most fun and challenging of the 
+ professions.  Some tend to fit the role like a glove,  weaving their
+ songs through the ether with the skill of a master craftsman.  While
+ others, such as myself, must constantly work to uphold the bardic
+ image.  In other words, don't feel intimidated by the "mystique" of
+ being a bard.  No one expects a young bard to start singing songs and
+ telling stories right from the beginning.  If you feel interested in
+ becoming a bard, simply start playing one. 
+
+ There are as many types of bards as there are stars in the sky.  Some
+ prefer the swashbuckling adventurer, quick of wit and tongue.  Others
+ choose to role-play a loremaster type, interested in the lore of the
+ lands and the stories that make up our history.  Still others value
+ the performance above all things.  They are often found singing and
+ storytelling all over the lands at our finest taverns and
+ establishments.  These are but a few broad characterizations of
+ bardic types.  Many bards themselves often disagree on "what makes a
+ bard", so feel free to role-play your bard in any fashion you want. 
+
+ This is not to say that the bardic profession doesn't have its fair
+ share of power hunters who never role-play or perform.  But, rather,
+ a bard is so much more than a hunter consisting of just an AS and a
+ DS.  Anyone who creates a bard simply as a hunter, is denying him or
+ herself the best part of being a bard.  Even if all you do is create
+ a few simple loresinging verses of your own, you will be taking your
+ place among a society whose membership contains many of the finest
+ role-players in the lands. 
+
+ (A brief note on the writing of your own performance material.
+  Some bards go through their entire lives without producing a single
+ original piece of work.  I still have a healthy volume of work
+ outside my own that I perform for the enjoyment of others.  I think
+ you will find, though, that once you've become acquainted with the
+ art of performing, your own style and artistry will naturally come
+ forth.) 
+
+ Well, now that I have thoroughly demolished my soap box, we can get
+ onto the meat and bones of bard creation. 
+  
+II. The Name Giving: 
+
+ The first thing I always suggest is to decide on a race and name.
+ These two will often give you ideas for the type of character you
+ want to create and how you want to role-play them.  In order to get
+ your name, though, you have to go through a rather intensive amount
+ of trial and error testing.  No name can be duplicated and with tens
+ of thousands of characters created through the years, chances are
+ that your first choices will be gone. 
+
+ Since this can be a very time consuming process, I recommend taking
+ care of it before you start rolling for stats.  There is nothing
+ worse than losing that "perfect roll" because you got disconnected
+ while searching for an adequate name.  In order to do this, take the
+ first roll the character manager gives and go through toward the name
+ selection screen(you won't be keeping these rolls, so don't worry
+ about placement).  Find a name that you like and continue on into
+ Elanthia.  This will save your name so that, when you go back to roll
+ your stats, you can just fly right through the name selection 
+ process. 
+
+ Make an effort to create an original name.  It can be a hard thing,
+ but your name is something you can never change.  For good or bad, it
+ is how you will be perceived throughout the life of your character. 
+
+ Guidelines for name choosing: 
+
+1) Don't use main characters from a well known set of books.  Believe
+   me, there are more than enough out there.  You will not be setting
+   yourself apart. 
+
+2) If a name you want is already taken, don't add several t's or l's
+   onto the end of it.  You can try to subtly change the name but
+   don't butcher it.  Silvan, for instance, might be changed to
+   Sylvan, Sylven, Sylvin, Silven, or several variations, but don't
+   make it into Sillvvan or some such.  At that point, the name is no
+   longer beautiful but looks like the scrawl of a child. 
+
+3) Although names from well known books are usually taken already,
+   I've found that lesser known books can yield a good supply of
+   names.  In fact, my very first character was named using this
+   method. 
+
+4) Perhaps the most important thing is to create a name that is
+   suitable for the lands of Elanthia.  Please don't call yourself
+   Roboman or any other nonsense.  Your character will never be
+   respected and you will most likely be made to change it by the GMs. 
+
+5) Try not to create a name similar to a creature in the lands.
+   Names like Trollkiller will be very dangerous in a troll area.
+   Other characters will be swinging at you instead of the trolls. 
+
+6) Try to create a name that fits with the character.  If you want to
+   create a dark, brooding giantman, then you would want a name that
+   somehow reflects that.  Names like Fluffy or Tiny probably wouldn't
+   be on the list. 
+
+7) Above all, just try to be sensible.  We don't want to see
+   Bigbaddude or Prettygirl running through town.  Consider whether
+   the name you chose would ever be used in a fantasy setting, either
+   as a given name or as a nickname. 
+  
+
+III. Roll of the Dice: 
+
+ Once you have decided on your name, go to the nearest inn and
+ recreate the character (you will have to choose delete character
+ to do this).  Don't worry, the name is still there.  Just write it
+ down and re-enter it when the time comes. 
+
+ Now you are ready to roll the dice and give your character his
+ stats.  First, a little about how the dice are rolled.   The first
+ three numbers are between 50 and 90.  The fourth through sixth are
+ between 40 and 60.  The seventh, eighth, and ninth range between 20
+ and 50, and the last number can go between 20 and 100.  Of these ten
+ rolls, you want a total of AT LEAST 620.  I would strongly suggest a
+ total of 630 or greater.  The time spent getting a good roll is but
+ a pittance in relation to the time you will probably spend playing
+ this character. 
+
+There are a few loose guidelines that I use for rolls: 
+
+1) Absolutely no numbers below 30. 
+2) Four numbers above 70 (this means the first three and the last
+   number) 
+3) Of those four over 70, at least 3 above 80. 
+  
+
+IV. Placing the Numbers: 
+
+ There are many different ways to place these rolls.  If you are
+ familiar with all the stats and what they do, by all means, feel
+ free to place them any way you like.  The following is merely a
+ suggestion based on a bard's needs and individual stat growth
+ rates.  It is meant to be manipulated based on race or on personal
+ preference. 
+
+1) Discipline 
+2) Aura (never above 90) 
+3) Strength 
+4) Reflexes 
+5) Wisdom 
+6) Logic 
+7) Dexterity 
+8) Intelligence 
+9) Charisma 
+10) Constitution 
+
+ Here is my reasoning for the above placement: 
+
+1) Discipline is a slow grower for bards.  This growth combined with
+   its importance in regard to training points, places it high on the
+   list. 
+
+2) Aura is our most important stat (mana & training points).
+   Remember, we get +10 to this number too, so a roll between 80 and
+   90 is fine to start with. 
+
+3) Whether we like it or not, bards must survive by swinging our
+   weapons.  Although Strength rises at a decent rate for bards, it
+   is necessary in order to hunt well. If you are willing to sacrifice
+   hunting ability now for a better character after legend level,
+   you might consider putting Strength a little lower.  Be warned
+   that this is a tougher road to walk down. 
+
+4) Like Strength above, Reflexes are necessary to hunt effectively.
+   We have a decent amount of defensive spells which help us, but the
+   bonus from Reflexes is always welcome. As with Strength, Reflexes
+   grow fairly fast, so if you are looking real long-term, you might
+   consider moving this down a few spots.  It will make things harder
+   at the beginning though. 
+
+5) Contrary to popular belief, Wisdom is an important stat.  It's
+   greatest ability is to increase your TD, which is sorely needed in
+   later years.  Also, if you want your bard to be able to open boxes
+   effectively, you will need a decent Wisdom. 
+
+6) Logic really should be placed higher due to its extremely slow
+   growth and importance in experience absorbtion.  However, unless
+   you are willing to drop Strength or Reflexes, there is really no
+   place else to put it..  Like Aura, we also get +10 to our Logic
+   stat, so don't place a roll higher than 90 here. 
+
+7) Dexterity is a good all around stat.  It helps your ambush RT,
+   skills like climbing and swimming, and dodging manuever attacks.
+   Again, though, it is hard to place this higher without dropping
+   another needed stat. 
+
+8) Intelligence also helps with experience absorbtion.  I am
+   sacrificing a little learning ability here for better hunting
+   abilities. 
+
+9) Charisma is a bard's fastest growing stat.  Currently, the only
+   thing I think this affects is your loresinging ability.   In other
+   words, it has time to grow and grow it will. 
+
+10) Constitution rises at a decent clip and doesn't really affect too
+    much during your life.  It too has plenty of time to grow. 
+  
+
+V. The Training Path: 
+
+ The most important thing I can think of here is for you to decide
+ what skills you want for your bard and train him or her accordingly
+ from the very beginning.  Since we can only train most skills once,
+ missing a few trainings in a particular skill makes it much harder
+ for us to catch up.  These skills are what I consider "core skills"
+ for all bards.   Always train in these forever. 
+
+ 2x Weapon Training (of your choice) 
+ 1x Shield Training 
+ 1x Spell Research 
+ 1x Combat Manuevers 
+
+ Aside from these core skills, practically any variety of other skills
+ can be trained in.  The following is a brief summary of the secondary
+ skills: 
+
+Ambushing:  This comes very close to a core skill for many bards.
+            I strongly suggest you start training in it as soon as
+            possible.  Without it, you will have a hard time solo
+            hunting critters in later years.  Single train as much as
+            you can. 
+
+Stalk & Hiding:  In combination with the ambushing skill, this is
+                 almost necessary for hunting later in life.  You can
+                 certainly survive without these two skills, but it
+                 makes things much harder.  My suggestion:  start
+                 training early and try not to skip it once you have
+                 started.  Even fully single trained in this skill, I
+                 still have many problems hiding from creatures like
+                 Kiramon. 
+
+Armor Use:  Due to spell hinderance, most bards just get enough for
+            double leather and then stop.  Armor use takes off one
+            second of RT for every 20 in the skill that you have
+            (rounded up).  Double leather would then require 6 ranks,
+            or 30 skill, to fully train off.  If you are willing to
+            put up with the spell hinderance, by all means train
+            higher.  Better armor does indeed give better protection. 
+
+Perception:  Often overlooked, perception is one skill that you always
+             wish you had more of.  If you want to open your own
+             boxes, you will need a lot of perception to spot the
+             traps (try to single train).  If not, then aim for about
+             24 ranks (102) by level 40. 
+
+Mana Share:  This is a must train skill.  I made the mistake of
+             putting off training in it and am still trying to
+             recover.  At about level 30, it becomes necessary to ask
+             for spells for most critters you hunt.  Try to have a
+             minimum of 10 ranks (50) by that time.  Then get to 24
+             ranks (102) as fast as you can (without compromising your
+             core skills). 
+
+Climbing:  Used rather heavily in skill checks by the time you reach
+           level 30, I would try to have at least 10 ranks (50) by
+           then.  More is needed for areas like Pinefar. 
+
+Swimming:  Although less frequently used than Climbing, Swimming is
+           another skill that you can find yourself wishing you had
+           more.  1 rank (5) is needed to get to Imaera's Shrine, 2
+           ranks (10) is needed to enter Wolves Den.  Other than that,
+           try to have at least 5 ranks (25) by 20th.  Pick up more
+           whenever you can you never know what new areas might
+           require this. 
+
+Physical Training:  Train in this every year until about 15 (100 or so
+                    hit points), then train in it whenever you can
+                    until you reach your maximum hit points. 
+
+First Aid:  With the ability to bundle herbs and the lowering of pelt
+            prices, this skill has lost quite a bit in the last few
+            years.  I have never trained in it but sometimes really
+            wish I could skin those critters I kill.  It is up to you
+            and your training regimen if you can afford this skill.
+            There's every possibility that its importance could
+            increase in the future.  The Council of Light requires
+            you to skin in order to advance, so if you go this route
+            you should pick up at least a few ranks early on. 
+
+Disarming Traps:  A very nice skill to have if you want to open your
+                  own boxes.  It helps to find traps and then to
+                  disarm them.   With the current difficulty of traps
+                  in the realms, you will need to train this skill
+                  often to keep up.  Don't trust spell 408 (Disarm) to
+                  disarm your boxes, you might end up splattered all
+                  over my new vest <mumbles>. 
+
+Lockpicking:  Not really necessary with spell 407 (Unlock) available
+              to us but it can be incredibly fun.  If you stay with
+              it, it provides a nice alternative to hunting in later
+              years. 
+
+Scroll Reading:  A nice skill to have, but I would consider this more
+                 of a tertiary skill.  I won't train in it until I
+                 have completed my mana share but others might want
+                 to start earlier.  About 15 ranks (70) will allow you
+                 to read almost anything.  Get more for greater 
+                 success. 
+
+Magic Item Use:  This skill isn't really needed for most bards.
+                 Spell aiming is too costly for us to use wizard
+                 wands and TD's vs. Sorceror's spells are too high to
+                 really make use of those sorc wands.  Getting spells
+                 imbedded into wands and rods are about the only use
+                 for this skill. 
+
+Brawling:  The only reason I would train in brawling is for the Voln
+           Skills of Throw, Punch, and Kick…commonly referred to as
+           Voln Fu.  But in order to be good at this, you practically
+           have to double train in it.  This, unfortunately, is an
+           impossibility for bards.  The one bard I've heard of that
+           singled in it felt he had wasted training points because of
+           his lack of success in Voln Fu.  Not recommended unless
+           you are willing to sacrifice a lot. 
+
+Trading:  Only train in this if you want to role-play your bard as a
+          merchant.  It only saves you money, and money is irrevelant
+          when compared to training points.  I would willingly give
+          all my money for a few more training points a year. 
+
+Picking Pockets:  As with trading, only train in this if you are
+                  role-playing your bard with thiefly tendancies.
+                  It used to be that training in this helped you to
+                  spot people trying to pick your pockets, but it may
+                  or may not be true now. 
+
+ One brief skill discussion I wanted to finish with is what your main
+ weapon will be.  The best two choices for a bard are generally
+ one-handed edged (OHE) and Polearms.  Polearms are extremely cheap
+ for us to train in (compared to most other professions).  The only
+ problem is that polearms are a bit weak right now.  The one-handed
+ variety can't compare to OHE weapons and the two-handed polearms are
+ usually behind other two-handed weapons.  This is not to say that
+ polearms will always stay as they are now.  They could very well be
+ made much more effective, giving the ones who trained in them
+ significant advantages.  This can't be assumed, though, and the
+ chance remains that they will stay "as is".  Currently, the OHE skill
+ is a much safer and more effective choice.  But if you are really
+ looking for something different and want to stand out in the crowd,
+ try Polearms. 
+
+Note: Polearms don't ambush well so if you want to ambush, choose OHE. 
+
+VI. Spell Training (to sing or to cast): 
+
+ As an increasing amount of our spellsongs become implemented, more
+ and more bards choose to go up the Bard List first.  At long last,
+ this is becoming a viable alternative for bard training.  I still
+ think the Minor Elemental List has more to offer at this point, but
+ in the future, who is to say?  The most popular spell training
+ system (and the one I use) is this: 
+
+ Year      Spells 
+ ------    -------- 
+ 0         401 
+ 1-7       1001 - 1007 
+ 8-36      402 - 430 
+ 37-49     1008 - 1020 
+
+ After getting to this point, you can make the choice of either going
+ on up to Sonic Disruption (1030) or going back to the Minor Elemental
+ List to increase your bonuses on 425, True Strike, and 430, Guard
+ True.  Beyond that, it is entirely up to you. 
+
+Note: With the fantastic spell 1010 (Song of Valor) now implemented,
+      you may want to  go ahead and get this before heading up the
+      Minor Elemental List.  You probably won't be able to use it much
+      before 20th level, but it is one of our best defensive spells. 
+
+Note:  Unimplimented spells at the time of this writing are:  1005,
+       1011, 1013, 1014, 1016, 1017, 1025, 1050, and 450.  In
+       addition, 1015 is having problems with its "slowing" portion.
+       1005 (now Lullabye) will likely be the next one implimented. 
+  
+  
+
+VII. Loresinging: 
+
+ Loresinging is a bard-only skill whereby we can sing to an item and
+ have the item respond back to us.  Because it is ours and ours
+ alone, loresinging is often thought to be the defining ability of a
+ bard. 
+
+ The range of information we can receive is fairly extensive.  The most
+ notable of which is:  weight, value, number of enchantments, crit
+ padding/weighting, damage padding/weighting, elemental crits, the
+ spell in an item, the number of charges left in the item, and lock 
+ toughness on boxes. 
+
+ For the most part, it is an age old tradition that you learn the
+ skill and artistry of loresinging from an older bard in the game.
+  So if you want to learn more, then I suggest you try to find a
+ mentor or attend a loresinging class in the lands.  What follows is
+ just a brief description of the skill. 
+
+ Loresinging verses contain two main things:  the item's name and the
+ keyword or powerword that invokes the information.   The item's name
+ must be the word used in picking up or manipulating the item.
+  Sometimes these are hard to discover.  Blue lapis lazuli, for
+ example, must be specified by the word "lapis".  Most are relatively
+ easy, though.  A forest green broadsword is obviously referred to as
+ a "broadsword". 
+
+ There are many types of keywords for loresinging.  Some of them
+ yield the same response while others invoke completely different
+ information.  "Value" and "weight", for example, both will give you
+ the same data while "Magic" starts you on the road towards an item's
+ magic abilities. 
+
+ How these are typically combined is in a 2 or 4 line rhyming verse
+ using the command "loresing".  The item name is usually placed in
+ the first line with the keyword in the second line.  You hold the
+ item in your right hand and the result is something like this: 
+
+ Broadsword that I hold in my hand; 
+ Tell me your value in this land 
+
+ (These specific lines are often referred to as the beginner's lament
+ because they are only used by beginners just learning the craft.
+ I seriously recommend creating your own loresinging verses.
+ Actually singing the above example can cause you to be looked down
+ upon by your peers.) 
+
+ Getting back to loresinging, the lines above will give you information
+ regarding value and weight.  After this, asking the item about it's
+ magic might lead you to it's enchantment and on toward weightings
+ and other information. 
+
+ Random notes on loresinging: 
+
+ Keywords are almost always hinted to in previous responses from the
+ item.  Pay attention and work with the item until you have discovered
+ all its secrets. 
+
+ The lines do not have to rhyme but are usually done that way.  It
+ certainly isn't necessary but is nicer most of the time. 
+  
+ If a two line verse isn't giving you the information you want, try a
+ four line verse.  These are more powerful. 
+
+ You will get better at getting information with loresinging as you
+ gain levels. 
+  
+
+VIII.  Conclusion: 
+
+ Bards have the ability to become very good in a wide variety of
+ arenas.  For this reason, we are often refered to as
+ "jack-of-all-trades".  We usually aren't the best at all things but,
+ then again, we have relatively few weaknesses when compared to other
+ classes.  Add the fact that we are the keepers of Lore, Music, and
+ Art in the lands of Elanthia, and you can see why bards are a fun
+ and challenging profession to play. 
+
+ With the future also comes great hope for the bards.  More and more
+ of our spellsongs are being implimented all the time, and when
+ instruments come, we will become undisputed masters of performance
+ in the lands.  No other profession will have the skill of a bard
+ when playing an instrument.  In this humble bard's view, we are
+ quickly becoming the envy of Elanthia.  So pick up your mandolin,
+ whistle a few bars, and come sing with us. 
+
+
+Jaslin Machea, 
+Elven Bard 
+  
+
+*  Feel free to send me email at WOLShuyun@aol.com if you have any
+   questions. 
+
+

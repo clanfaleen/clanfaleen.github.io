@@ -1,0 +1,204 @@
+Warrior Tricks 
+
+------------------------------------------------------
+
+Weapon flip
+wtrick wflip 
+
+Flip your weapon around in your hand. 
+
+------------------------------------------------------
+
+Guzzle
+wtrick Guzzle 
+
+Have a drink in your right hand. You drink it in one gulp. 
+
+------------------------------------------------------
+
+Twirl-n-Sheath
+wtrick tsheath 
+
+Twirls your weapon and puts it in your sheath. 
+{Must have a sheath; a scabbard or sling will not work with this trick.}
+
+------------------------------------------------------
+
+Weapon Hop
+wtrick hop 
+
+Swing your weapon around and you jump over the blade. Looks dangerous 
+but isn't. 
+
+------------------------------------------------------
+
+Weapon Spin
+wtrick spin 
+
+You must have a weapon in one hand and one hand empty. Spins your 
+weapon around. 
+
+------------------------------------------------------
+
+Appraise
+wtrick appraise <name> 
+
+Get an idea of the age of a player, NPC, or critter. 
+
+ie: 'Lord Shadze has a slight advantage over you' 'This person/critter 
+is too easy to give you any experience' 'The Ice Troll would probably 
+wipe the floor with you'
+
+------------------------------------------------------
+
+Balance
+wtrick balance <body part> 
+
+body parts are (in order from easiest to hardest): Palm, Finger, Foot,
+Chin, Nose.
+
+Each time you train in balance, you will learn a new body part.
+
+{The number after the body part is the modifier for this skill.
+You will see this on other skill explanations. Palm, 0 
+
+Finger  -10 
+
+Foot -50 
+
+Chin -85 
+
+Nose -120 
+
+Be careful with this one, it will disband you and close your group. 
+And while balancing you cannot look, think, smile, talk, or change 
+stances. Others cannot whisper to you or cast most spells on you while 
+busy. You can type stop to stop your balancing.
+{You will train in this skill multiple times} 
+
+------------------------------------------------------
+
+Spit
+wtrick spit <name> <aim> 
+
+First note, watch who and what you spit at.
+ I doubt any npc will take kindly to it, and you may end up in the 
+jailhouse. Also, some people may take offense as others may not. I 
+suggest asking another player before spitting tin their general 
+direction. 
+
+Places to aim: 
+
+Shirt 0 
+
+Feet -10 
+
+Left or right foot -30 
+
+Left or right hand 
+-50(for empty hands)
+-75(for hitting the object they are holding)
+
+Face  -80 
+
+Left or right eye -130
+
+Subtract 25 points from any of these if the target is not in your 
+group.
+
+------------------------------------------------------
+
+Juggling
+wtrick juggle <number of weapons 2 to 5> 
+
+Be careful with this one, it will disband you and close your group. 
+While juggling you cannot look, think, smile, talk, or change stances.
+Others cannot whisper to you or cast most spells on you while busy. 
+You can type stop to stop juggling. 
+
+------------------------------------------------------
+
+Feint
+wtrick feint <name>
+
+This will attempt to fool with a feint of your blade.
+Similar to twitching to the left then running to the right.
+It is level based, so roltons will prove to be easier then titans. 
+
+------------------------------------------------------
+
+Backflip
+wtrick backflip 
+
+You start easy, doing little cartwheels with your blade,
+but as you train you will be able to do several in a row.
+{You will train in this skill multiple times} 
+
+------------------------------------------------------
+
+Polish
+wtrick polish <item> 
+
+Add a temporary shine to some weapons and some shields. You may have a
+hard time finding objects to polish, but daggers work well. 
+
+------------------------------------------------------
+
+Draw
+wtrick draw 
+
+Draw your closest weapon quickly, others see it as "In one blurring 
+motion, Kailah {or your name}, snatches a Krovlin Backslasher {or your 
+weapon} from her scabbard, brandishing it for all to see. 
+
+------------------------------------------------------
+
+Stance perfection 
+
+Normally stance is adjusted by 20% increments. With Stance perfection, 
+you can go in between stances in 10% increments. Later on, you'll get 
+Sperf2, which allows you to adjust in five percent increments.
+{You will train in this skill multiple times}
+
+------------------------------------------------------
+
+Roll 
+
+You crouch down to the ground and roll to the right or left, then 
+spring to your feet. As you train, your round time for this skill 
+decreases from ten seconds to two seconds.
+{You will train in this skill multiple times} 
+
+------------------------------------------------------
+
+Toss-n-slice 
+
+Hold a weapon and a food of some kind, toss the food in the air and 
+slice it into tiny pieces before it hits the ground. The most popular 
+food item in the guild to do this with seems to be tarts. 
+
+------------------------------------------------------
+
+Catch sheath 
+
+Must perfect the twirl-n-sheath skill first. You toss the weapon up in 
+the air and position your body just right so that it lands perfectly 
+in your sheath. 
+{You must have a sheath; a scabbard or sling will not work.} 
+
+------------------------------------------------------
+
+Haircut 
+
+Swing your weapon just inches above someone's head, or whatever the 
+person may be wearing for protection on their head. If nothing is worn,
+you will cut off a hair. 
+
+------------------------------------------------------
+
+Kick Sheath 
+
+Place the weapon on your foot and kick it into the air. Position your 
+body just right so it lands directly in your sheath.
+{You must have a sheath; a scabbard or sling will not work.}
+
